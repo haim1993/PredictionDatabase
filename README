@@ -1,0 +1,27 @@
+##########
+### Creator: Haim Schlesinger
+###
+### Version: 1.0
+##########
+
+
+### PART 1 ####
+The application is running on Docker.
+
+### How to Run the application ###
+docker run -p 8081:8080 -v /Users/Shlez/Documents/app:/usr/src/app -d shlez/node-web-app
+
+
+### How to Run Hadoop ###
+docker run -it --rm -p 50070:50070 -p 50075:50075 -p 8088:8088 -v /Users/Shlez/Documents/app/uploadedfiles/:/tmp/hadoop-root/dfs/data/ -h hadoop --name hadoop sixeyed/hadoop-succinctly:2.7.2
+
+## MongoDB link ###
+https://mlab.com/
+
+
+
+### PART 2 ####
+https://bigml.com/dashboard/create_batchprediction/logisticregression
+
+username: shachar
+password: sw5666145

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Final Project</title>
+
+    <!-- Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/87d1c5d8de.js"></script>
+    <script type="text/js" src="scripts.js"></script>
+</head>
+
+<body>
+    <div id="column-info" class="container" style="margin-top: 30px;">
+        <form class="form-horizontal" role="form" method="post" action="/">
+
+            <div style="display: relative; width: 100%;">
+                <span id="back-btn" style="margin-top: 14px; float:left; font-size: 200%"><a href="/"><i class="fa fa-arrow-left" aria-hidden="true"></i></a> <span style="font-size: 80%">Back</span></span>
+            </div>
+
+
+            <h2 style="text-align:center;">Prediction</h2>
+            <br /><br />
+            <!-- Starting Median Salary Field -->
+            <div class="form-group">
+                <label class="col-sm-3 control-label">Median Salary (Start)</label>
+                <div class="col-sm-3">
+                    <input type="number" name="start_median_salary" placeholder="45300$" class="form-control" min="0">
+                </div>
+            </div>
+
+            <!-- Starting Median Salary Field -->
+            <div class="form-group">
+                <label class="col-sm-3 control-label">Median Salary (Mid-Career)</label>
+                <div class="col-sm-3">
+                    <input type="number" name="mid_median_salary" placeholder="86200$" class="form-control" min="0">
+                </div>
+            </div>
+
+            <!-- Starting Median Salary Field -->
+            <div class="form-group">
+                <label class="col-sm-3 control-label">10th Percentile Salary</label>
+                <div class="col-sm-3">
+                    <input type="number" name="percentile_salary_10th" placeholder="41300$" class="form-control" min="0">
+                </div>
+            </div>
+
+            <!-- Starting Median Salary Field -->
+            <div class="form-group">
+                <label class="col-sm-3 control-label">25th Percentile Salary</label>
+                <div class="col-sm-3">
+                    <input type="number" name="percentile_salary_25th" placeholder="61000$" class="form-control" min="0">
+                </div>
+            </div>
+
+            <!-- Starting Median Salary Field -->
+            <div class="form-group">
+                <label class="col-sm-3 control-label">75th Percentile Salary</label>
+                <div class="col-sm-3">
+                    <input type="number" name="percentile_salary_75th" placeholder="120000$" class="form-control" min="0">
+                </div>
+            </div>
+
+            <!-- Starting Median Salary Field -->
+            <div class="form-group">
+                <label class="col-sm-3 control-label">90th Percentile Salary</label>
+                <div class="col-sm-3">
+                    <input type="number" name="percentile_salary_90th" placeholder="185000$" class="form-control" min="0">
+                </div>
+            </div>
+
+            <br /><br />
+            <div class="form-group">
+                <div class="col-sm-6 col-sm-offset-3">
+                    <button type="submit" id="validate" class="btn btn-primary btn-block">Save Changes</button>
+                </div>
+            </div>
+        </form>
+        <!-- /form -->
+
+    </div>
+    <!-- ./container -->
+</body>
+
+</html>

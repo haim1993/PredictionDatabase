@@ -1,0 +1,2692 @@
+[
+  {
+    "School Name": "Massachusetts Institute of Technology (MIT)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 72200,
+    "Mid-Career Median Salary": 126000,
+    "Mid-Career 10th Percentile Salary": 76800,
+    "Mid-Career 25th Percentile Salary": 99200,
+    "Mid-Career 75th Percentile Salary": 168000,
+    "Mid-Career 90th Percentile Salary": 220000
+  },
+  {
+    "School Name": "California Institute of Technology (CIT)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 75500,
+    "Mid-Career Median Salary": 123000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 104000,
+    "Mid-Career 75th Percentile Salary": 161000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Harvey Mudd College",
+    "School Type": "Engineering",
+    "Starting Median Salary": 71800,
+    "Mid-Career Median Salary": 122000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 96000,
+    "Mid-Career 75th Percentile Salary": 180000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Polytechnic University of New York, Brooklyn",
+    "School Type": "Engineering",
+    "Starting Median Salary": 62400,
+    "Mid-Career Median Salary": 114000,
+    "Mid-Career 10th Percentile Salary": 66800,
+    "Mid-Career 25th Percentile Salary": 94300,
+    "Mid-Career 75th Percentile Salary": 143000,
+    "Mid-Career 90th Percentile Salary": 190000
+  },
+  {
+    "School Name": "Cooper Union",
+    "School Type": "Engineering",
+    "Starting Median Salary": 62200,
+    "Mid-Career Median Salary": 114000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 80200,
+    "Mid-Career 75th Percentile Salary": 142000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Worcester Polytechnic Institute (WPI)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 61000,
+    "Mid-Career Median Salary": 114000,
+    "Mid-Career 10th Percentile Salary": 80000,
+    "Mid-Career 25th Percentile Salary": 91200,
+    "Mid-Career 75th Percentile Salary": 137000,
+    "Mid-Career 90th Percentile Salary": 180000
+  },
+  {
+    "School Name": "Carnegie Mellon University (CMU)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 61800,
+    "Mid-Career Median Salary": 111000,
+    "Mid-Career 10th Percentile Salary": 63300,
+    "Mid-Career 25th Percentile Salary": 80100,
+    "Mid-Career 75th Percentile Salary": 150000,
+    "Mid-Career 90th Percentile Salary": 209000
+  },
+  {
+    "School Name": "Rensselaer Polytechnic Institute (RPI)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 61100,
+    "Mid-Career Median Salary": 110000,
+    "Mid-Career 10th Percentile Salary": 71600,
+    "Mid-Career 25th Percentile Salary": 85500,
+    "Mid-Career 75th Percentile Salary": 140000,
+    "Mid-Career 90th Percentile Salary": 182000
+  },
+  {
+    "School Name": "Georgia Institute of Technology",
+    "School Type": "Engineering",
+    "Starting Median Salary": 58300,
+    "Mid-Career Median Salary": 106000,
+    "Mid-Career 10th Percentile Salary": 67200,
+    "Mid-Career 25th Percentile Salary": 85200,
+    "Mid-Career 75th Percentile Salary": 137000,
+    "Mid-Career 90th Percentile Salary": 183000
+  },
+  {
+    "School Name": "Colorado School of Mines",
+    "School Type": "Engineering",
+    "Starting Median Salary": 58100,
+    "Mid-Career Median Salary": 106000,
+    "Mid-Career 10th Percentile Salary": 62200,
+    "Mid-Career 25th Percentile Salary": 87900,
+    "Mid-Career 75th Percentile Salary": 142000,
+    "Mid-Career 90th Percentile Salary": 201000
+  },
+  {
+    "School Name": "Stevens Institute of Technology",
+    "School Type": "Engineering",
+    "Starting Median Salary": 60600,
+    "Mid-Career Median Salary": 105000,
+    "Mid-Career 10th Percentile Salary": 68700,
+    "Mid-Career 25th Percentile Salary": 81900,
+    "Mid-Career 75th Percentile Salary": 138000,
+    "Mid-Career 90th Percentile Salary": 185000
+  },
+  {
+    "School Name": "Illinois Institute of Technology (IIT)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 56000,
+    "Mid-Career Median Salary": 97800,
+    "Mid-Career 10th Percentile Salary": 56100,
+    "Mid-Career 25th Percentile Salary": 77400,
+    "Mid-Career 75th Percentile Salary": 121000,
+    "Mid-Career 90th Percentile Salary": 165000
+  },
+  {
+    "School Name": "Wentworth Institute of Technology",
+    "School Type": "Engineering",
+    "Starting Median Salary": 53000,
+    "Mid-Career Median Salary": 96700,
+    "Mid-Career 10th Percentile Salary": 55200,
+    "Mid-Career 25th Percentile Salary": 74000,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 153000
+  },
+  {
+    "School Name": "Virginia Polytechnic Institute and State University (Virginia Tech)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 53500,
+    "Mid-Career Median Salary": 95400,
+    "Mid-Career 10th Percentile Salary": 50600,
+    "Mid-Career 25th Percentile Salary": 71400,
+    "Mid-Career 75th Percentile Salary": 124000,
+    "Mid-Career 90th Percentile Salary": 163000
+  },
+  {
+    "School Name": "South Dakota School of Mines & Technology",
+    "School Type": "Engineering",
+    "Starting Median Salary": 55800,
+    "Mid-Career Median Salary": 93400,
+    "Mid-Career 10th Percentile Salary": 71500,
+    "Mid-Career 25th Percentile Salary": 81900,
+    "Mid-Career 75th Percentile Salary": 122000,
+    "Mid-Career 90th Percentile Salary": 147000
+  },
+  {
+    "School Name": "New Mexico Institute of Mining and Technology (New Mexico Tech)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 51000,
+    "Mid-Career Median Salary": 93400,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 67400,
+    "Mid-Career 75th Percentile Salary": 123000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Rochester Institute of Technology (RIT)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 48900,
+    "Mid-Career Median Salary": 84600,
+    "Mid-Career 10th Percentile Salary": 45000,
+    "Mid-Career 25th Percentile Salary": 62100,
+    "Mid-Career 75th Percentile Salary": 112000,
+    "Mid-Career 90th Percentile Salary": 159000
+  },
+  {
+    "School Name": "Embry-Riddle Aeronautical University (ERAU)",
+    "School Type": "Engineering",
+    "Starting Median Salary": 52700,
+    "Mid-Career Median Salary": 80700,
+    "Mid-Career 10th Percentile Salary": 49800,
+    "Mid-Career 25th Percentile Salary": 64000,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 142000
+  },
+  {
+    "School Name": "Tennessee Technological University",
+    "School Type": "Engineering",
+    "Starting Median Salary": 46200,
+    "Mid-Career Median Salary": 80000,
+    "Mid-Career 10th Percentile Salary": 42100,
+    "Mid-Career 25th Percentile Salary": 62600,
+    "Mid-Career 75th Percentile Salary": 99500,
+    "Mid-Career 90th Percentile Salary": 121000
+  },
+  {
+    "School Name": "University of Illinois at Urbana-Champaign (UIUC)",
+    "School Type": "Party",
+    "Starting Median Salary": 52900,
+    "Mid-Career Median Salary": 96100,
+    "Mid-Career 10th Percentile Salary": 48200,
+    "Mid-Career 25th Percentile Salary": 68900,
+    "Mid-Career 75th Percentile Salary": 132000,
+    "Mid-Career 90th Percentile Salary": 177000
+  },
+  {
+    "School Name": "University of Maryland, College Park",
+    "School Type": "Party",
+    "Starting Median Salary": 52000,
+    "Mid-Career Median Salary": 95000,
+    "Mid-Career 10th Percentile Salary": 50400,
+    "Mid-Career 25th Percentile Salary": 68300,
+    "Mid-Career 75th Percentile Salary": 126000,
+    "Mid-Career 90th Percentile Salary": 166000
+  },
+  {
+    "School Name": "University of California, Santa Barbara (UCSB)",
+    "School Type": "Party",
+    "Starting Median Salary": 50500,
+    "Mid-Career Median Salary": 95000,
+    "Mid-Career 10th Percentile Salary": 51300,
+    "Mid-Career 25th Percentile Salary": 71200,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": 173000
+  },
+  {
+    "School Name": "University of Texas (UT) - Austin",
+    "School Type": "Party",
+    "Starting Median Salary": 49700,
+    "Mid-Career Median Salary": 93900,
+    "Mid-Career 10th Percentile Salary": 50100,
+    "Mid-Career 25th Percentile Salary": 67400,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": 188000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Albany",
+    "School Type": "Party",
+    "Starting Median Salary": 44500,
+    "Mid-Career Median Salary": 92200,
+    "Mid-Career 10th Percentile Salary": 47000,
+    "Mid-Career 25th Percentile Salary": 63100,
+    "Mid-Career 75th Percentile Salary": 135000,
+    "Mid-Career 90th Percentile Salary": 209000
+  },
+  {
+    "School Name": "University of Florida (UF)",
+    "School Type": "Party",
+    "Starting Median Salary": 47100,
+    "Mid-Career Median Salary": 87900,
+    "Mid-Career 10th Percentile Salary": 45400,
+    "Mid-Career 25th Percentile Salary": 62900,
+    "Mid-Career 75th Percentile Salary": 120000,
+    "Mid-Career 90th Percentile Salary": 172000
+  },
+  {
+    "School Name": "Louisiana State University (LSU)",
+    "School Type": "Party",
+    "Starting Median Salary": 46900,
+    "Mid-Career Median Salary": 87800,
+    "Mid-Career 10th Percentile Salary": 43700,
+    "Mid-Career 25th Percentile Salary": 61300,
+    "Mid-Career 75th Percentile Salary": 120000,
+    "Mid-Career 90th Percentile Salary": 165000
+  },
+  {
+    "School Name": "University of Georgia (UGA)",
+    "School Type": "Party",
+    "Starting Median Salary": 44100,
+    "Mid-Career Median Salary": 86000,
+    "Mid-Career 10th Percentile Salary": 43100,
+    "Mid-Career 25th Percentile Salary": 57800,
+    "Mid-Career 75th Percentile Salary": 118000,
+    "Mid-Career 90th Percentile Salary": 164000
+  },
+  {
+    "School Name": "Pennsylvania State University (PSU)",
+    "School Type": "Party",
+    "Starting Median Salary": 49900,
+    "Mid-Career Median Salary": 85700,
+    "Mid-Career 10th Percentile Salary": 46300,
+    "Mid-Career 25th Percentile Salary": 62000,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 160000
+  },
+  {
+    "School Name": "Arizona State University (ASU)",
+    "School Type": "Party",
+    "Starting Median Salary": 47400,
+    "Mid-Career Median Salary": 84100,
+    "Mid-Career 10th Percentile Salary": 44600,
+    "Mid-Career 25th Percentile Salary": 60700,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 163000
+  },
+  {
+    "School Name": "Indiana University (IU), Bloomington",
+    "School Type": "Party",
+    "Starting Median Salary": 46300,
+    "Mid-Career Median Salary": 84000,
+    "Mid-Career 10th Percentile Salary": 43600,
+    "Mid-Career 25th Percentile Salary": 60400,
+    "Mid-Career 75th Percentile Salary": 119000,
+    "Mid-Career 90th Percentile Salary": 178000
+  },
+  {
+    "School Name": "University of Iowa (UI)",
+    "School Type": "Party",
+    "Starting Median Salary": 44700,
+    "Mid-Career Median Salary": 83900,
+    "Mid-Career 10th Percentile Salary": 43300,
+    "Mid-Career 25th Percentile Salary": 61100,
+    "Mid-Career 75th Percentile Salary": 116000,
+    "Mid-Career 90th Percentile Salary": 163000
+  },
+  {
+    "School Name": "Randolph-Macon College",
+    "School Type": "Party",
+    "Starting Median Salary": 42600,
+    "Mid-Career Median Salary": 83600,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 54100,
+    "Mid-Career 75th Percentile Salary": 123000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "University of Alabama, Tuscaloosa",
+    "School Type": "Party",
+    "Starting Median Salary": 41300,
+    "Mid-Career Median Salary": 81400,
+    "Mid-Career 10th Percentile Salary": 40100,
+    "Mid-Career 25th Percentile Salary": 56500,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 161000
+  },
+  {
+    "School Name": "University of Mississippi",
+    "School Type": "Party",
+    "Starting Median Salary": 41400,
+    "Mid-Career Median Salary": 79700,
+    "Mid-Career 10th Percentile Salary": 40400,
+    "Mid-Career 25th Percentile Salary": 53500,
+    "Mid-Career 75th Percentile Salary": 108000,
+    "Mid-Career 90th Percentile Salary": 186000
+  },
+  {
+    "School Name": "University of New Hampshire (UNH)",
+    "School Type": "Party",
+    "Starting Median Salary": 41800,
+    "Mid-Career Median Salary": 78300,
+    "Mid-Career 10th Percentile Salary": 41700,
+    "Mid-Career 25th Percentile Salary": 56400,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 147000
+  },
+  {
+    "School Name": "West Virginia University (WVU)",
+    "School Type": "Party",
+    "Starting Median Salary": 43100,
+    "Mid-Career Median Salary": 78100,
+    "Mid-Career 10th Percentile Salary": 39700,
+    "Mid-Career 25th Percentile Salary": 55700,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 141000
+  },
+  {
+    "School Name": "University of Tennessee",
+    "School Type": "Party",
+    "Starting Median Salary": 43800,
+    "Mid-Career Median Salary": 74600,
+    "Mid-Career 10th Percentile Salary": 41900,
+    "Mid-Career 25th Percentile Salary": 53200,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 153000
+  },
+  {
+    "School Name": "Ohio University",
+    "School Type": "Party",
+    "Starting Median Salary": 42200,
+    "Mid-Career Median Salary": 73400,
+    "Mid-Career 10th Percentile Salary": 36600,
+    "Mid-Career 25th Percentile Salary": 52800,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 150000
+  },
+  {
+    "School Name": "Florida State University (FSU)",
+    "School Type": "Party",
+    "Starting Median Salary": 42100,
+    "Mid-Career Median Salary": 73000,
+    "Mid-Career 10th Percentile Salary": 39600,
+    "Mid-Career 25th Percentile Salary": 52800,
+    "Mid-Career 75th Percentile Salary": 107000,
+    "Mid-Career 90th Percentile Salary": 156000
+  },
+  {
+    "School Name": "Bucknell University",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 54100,
+    "Mid-Career Median Salary": 110000,
+    "Mid-Career 10th Percentile Salary": 62800,
+    "Mid-Career 25th Percentile Salary": 80600,
+    "Mid-Career 75th Percentile Salary": 156000,
+    "Mid-Career 90th Percentile Salary": 251000
+  },
+  {
+    "School Name": "Colgate University",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 52800,
+    "Mid-Career Median Salary": 108000,
+    "Mid-Career 10th Percentile Salary": 60000,
+    "Mid-Career 25th Percentile Salary": 76700,
+    "Mid-Career 75th Percentile Salary": 167000,
+    "Mid-Career 90th Percentile Salary": 265000
+  },
+  {
+    "School Name": "Amherst College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 54500,
+    "Mid-Career Median Salary": 107000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 84900,
+    "Mid-Career 75th Percentile Salary": 162000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Lafayette College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 53900,
+    "Mid-Career Median Salary": 107000,
+    "Mid-Career 10th Percentile Salary": 70600,
+    "Mid-Career 25th Percentile Salary": 79300,
+    "Mid-Career 75th Percentile Salary": 144000,
+    "Mid-Career 90th Percentile Salary": 204000
+  },
+  {
+    "School Name": "Bowdoin College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 48100,
+    "Mid-Career Median Salary": 107000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 74600,
+    "Mid-Career 75th Percentile Salary": 146000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "College of the Holy Cross",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 50200,
+    "Mid-Career Median Salary": 106000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 65600,
+    "Mid-Career 75th Percentile Salary": 143000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Occidental College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 51900,
+    "Mid-Career Median Salary": 105000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 54800,
+    "Mid-Career 75th Percentile Salary": 157000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Washington and Lee University",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 53600,
+    "Mid-Career Median Salary": 104000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 82800,
+    "Mid-Career 75th Percentile Salary": 146000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Swarthmore College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 49700,
+    "Mid-Career Median Salary": 104000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 67200,
+    "Mid-Career 75th Percentile Salary": 167000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Davidson College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 46100,
+    "Mid-Career Median Salary": 104000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 70500,
+    "Mid-Career 75th Percentile Salary": 146000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Carleton College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 47500,
+    "Mid-Career Median Salary": 103000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 69400,
+    "Mid-Career 75th Percentile Salary": 141000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Williams College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 51700,
+    "Mid-Career Median Salary": 102000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 76400,
+    "Mid-Career 75th Percentile Salary": 143000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Pomona College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 48600,
+    "Mid-Career Median Salary": 101000,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 63300,
+    "Mid-Career 75th Percentile Salary": 161000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Wesleyan University (Middletown, Connecticut)",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 46500,
+    "Mid-Career Median Salary": 97900,
+    "Mid-Career 10th Percentile Salary": 42000,
+    "Mid-Career 25th Percentile Salary": 62500,
+    "Mid-Career 75th Percentile Salary": 126000,
+    "Mid-Career 90th Percentile Salary": 215000
+  },
+  {
+    "School Name": "Bates College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 47300,
+    "Mid-Career Median Salary": 96500,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 60700,
+    "Mid-Career 75th Percentile Salary": 162000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Union College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 47200,
+    "Mid-Career Median Salary": 95800,
+    "Mid-Career 10th Percentile Salary": 48700,
+    "Mid-Career 25th Percentile Salary": 75200,
+    "Mid-Career 75th Percentile Salary": 135000,
+    "Mid-Career 90th Percentile Salary": 230000
+  },
+  {
+    "School Name": "University of Richmond",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 48600,
+    "Mid-Career Median Salary": 94600,
+    "Mid-Career 10th Percentile Salary": 44500,
+    "Mid-Career 25th Percentile Salary": 59400,
+    "Mid-Career 75th Percentile Salary": 151000,
+    "Mid-Career 90th Percentile Salary": 211000
+  },
+  {
+    "School Name": "Vassar College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 46000,
+    "Mid-Career Median Salary": 94600,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 60600,
+    "Mid-Career 75th Percentile Salary": 123000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Middlebury College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 47700,
+    "Mid-Career Median Salary": 94200,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 69100,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Mount Holyoke College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 42400,
+    "Mid-Career Median Salary": 94100,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 57100,
+    "Mid-Career 75th Percentile Salary": 131000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Franklin and Marshall College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 49100,
+    "Mid-Career Median Salary": 92800,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 55800,
+    "Mid-Career 75th Percentile Salary": 185000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "DePauw University",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 41400,
+    "Mid-Career Median Salary": 88300,
+    "Mid-Career 10th Percentile Salary": 49500,
+    "Mid-Career 25th Percentile Salary": 57400,
+    "Mid-Career 75th Percentile Salary": 133000,
+    "Mid-Career 90th Percentile Salary": 185000
+  },
+  {
+    "School Name": "St. Olaf College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 45300,
+    "Mid-Career Median Salary": 86200,
+    "Mid-Career 10th Percentile Salary": 41300,
+    "Mid-Career 25th Percentile Salary": 61000,
+    "Mid-Career 75th Percentile Salary": 120000,
+    "Mid-Career 90th Percentile Salary": 185000
+  },
+  {
+    "School Name": "Colby College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 46400,
+    "Mid-Career Median Salary": 85800,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 63500,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Gettysburg College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 44700,
+    "Mid-Career Median Salary": 85800,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 66300,
+    "Mid-Career 75th Percentile Salary": 132000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Siena College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 45500,
+    "Mid-Career Median Salary": 85200,
+    "Mid-Career 10th Percentile Salary": 38700,
+    "Mid-Career 25th Percentile Salary": 58400,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": 189000
+  },
+  {
+    "School Name": "Smith College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 44000,
+    "Mid-Career Median Salary": 83900,
+    "Mid-Career 10th Percentile Salary": 45100,
+    "Mid-Career 25th Percentile Salary": 59800,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": 184000
+  },
+  {
+    "School Name": "Hamilton College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 49200,
+    "Mid-Career Median Salary": 83700,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 51900,
+    "Mid-Career 75th Percentile Salary": 123000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Randolph-Macon College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 42600,
+    "Mid-Career Median Salary": 83600,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 54100,
+    "Mid-Career 75th Percentile Salary": 123000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Wellesley College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 42800,
+    "Mid-Career Median Salary": 83500,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 58600,
+    "Mid-Career 75th Percentile Salary": 125000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Denison University",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 42000,
+    "Mid-Career Median Salary": 83500,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 62100,
+    "Mid-Career 75th Percentile Salary": 122000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Oberlin College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 43400,
+    "Mid-Career Median Salary": 81600,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 46400,
+    "Mid-Career 75th Percentile Salary": 128000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "University of Puget Sound",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 46600,
+    "Mid-Career Median Salary": 81500,
+    "Mid-Career 10th Percentile Salary": 48900,
+    "Mid-Career 25th Percentile Salary": 60100,
+    "Mid-Career 75th Percentile Salary": 104000,
+    "Mid-Career 90th Percentile Salary": 137000
+  },
+  {
+    "School Name": "Colorado College (CC)",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 38500,
+    "Mid-Career Median Salary": 81400,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 43000,
+    "Mid-Career 75th Percentile Salary": 148000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Reed College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 40500,
+    "Mid-Career Median Salary": 81100,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 67400,
+    "Mid-Career 75th Percentile Salary": 101000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Gustavus Adolphus College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 44500,
+    "Mid-Career Median Salary": 80600,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 49300,
+    "Mid-Career 75th Percentile Salary": 101000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Whitman College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 43500,
+    "Mid-Career Median Salary": 80100,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 64800,
+    "Mid-Career 75th Percentile Salary": 111000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Ursinus College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 42100,
+    "Mid-Career Median Salary": 80000,
+    "Mid-Career 10th Percentile Salary": 35600,
+    "Mid-Career 25th Percentile Salary": 54300,
+    "Mid-Career 75th Percentile Salary": 100000,
+    "Mid-Career 90th Percentile Salary": 160000
+  },
+  {
+    "School Name": "Juniata College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 41800,
+    "Mid-Career Median Salary": 78900,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 67200,
+    "Mid-Career 75th Percentile Salary": 110000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Wittenberg University",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 39200,
+    "Mid-Career Median Salary": 78200,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 54100,
+    "Mid-Career 75th Percentile Salary": 131000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Grinnell College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 42600,
+    "Mid-Career Median Salary": 76600,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 65100,
+    "Mid-Career 75th Percentile Salary": 116000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Skidmore College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 41600,
+    "Mid-Career Median Salary": 74600,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 42800,
+    "Mid-Career 75th Percentile Salary": 147000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Moravian College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 42500,
+    "Mid-Career Median Salary": 74400,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 56700,
+    "Mid-Career 75th Percentile Salary": 94900,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Lewis & Clark College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 38900,
+    "Mid-Career Median Salary": 72600,
+    "Mid-Career 10th Percentile Salary": 38200,
+    "Mid-Career 25th Percentile Salary": 53400,
+    "Mid-Career 75th Percentile Salary": 104000,
+    "Mid-Career 90th Percentile Salary": 140000
+  },
+  {
+    "School Name": "Fort Lewis College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 42000,
+    "Mid-Career Median Salary": 69800,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 55000,
+    "Mid-Career 75th Percentile Salary": 94000,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Thomas Aquinas College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 41500,
+    "Mid-Career Median Salary": 67500,
+    "Mid-Career 10th Percentile Salary": "N/A",
+    "Mid-Career 25th Percentile Salary": 44600,
+    "Mid-Career 75th Percentile Salary": 93100,
+    "Mid-Career 90th Percentile Salary": "N/A"
+  },
+  {
+    "School Name": "Evergreen State College",
+    "School Type": "Liberal Arts",
+    "Starting Median Salary": 39500,
+    "Mid-Career Median Salary": 63900,
+    "Mid-Career 10th Percentile Salary": 38800,
+    "Mid-Career 25th Percentile Salary": 47200,
+    "Mid-Career 75th Percentile Salary": 91600,
+    "Mid-Career 90th Percentile Salary": 120000
+  },
+  {
+    "School Name": "Dartmouth College",
+    "School Type": "Ivy League",
+    "Starting Median Salary": 58000,
+    "Mid-Career Median Salary": 134000,
+    "Mid-Career 10th Percentile Salary": 63100,
+    "Mid-Career 25th Percentile Salary": 90200,
+    "Mid-Career 75th Percentile Salary": 234000,
+    "Mid-Career 90th Percentile Salary": 321000
+  },
+  {
+    "School Name": "Princeton University",
+    "School Type": "Ivy League",
+    "Starting Median Salary": 66500,
+    "Mid-Career Median Salary": 131000,
+    "Mid-Career 10th Percentile Salary": 68900,
+    "Mid-Career 25th Percentile Salary": 100000,
+    "Mid-Career 75th Percentile Salary": 190000,
+    "Mid-Career 90th Percentile Salary": 261000
+  },
+  {
+    "School Name": "Yale University",
+    "School Type": "Ivy League",
+    "Starting Median Salary": 59100,
+    "Mid-Career Median Salary": 126000,
+    "Mid-Career 10th Percentile Salary": 58000,
+    "Mid-Career 25th Percentile Salary": 80600,
+    "Mid-Career 75th Percentile Salary": 198000,
+    "Mid-Career 90th Percentile Salary": 326000
+  },
+  {
+    "School Name": "Harvard University",
+    "School Type": "Ivy League",
+    "Starting Median Salary": 63400,
+    "Mid-Career Median Salary": 124000,
+    "Mid-Career 10th Percentile Salary": 54800,
+    "Mid-Career 25th Percentile Salary": 86200,
+    "Mid-Career 75th Percentile Salary": 179000,
+    "Mid-Career 90th Percentile Salary": 288000
+  },
+  {
+    "School Name": "University of Pennsylvania",
+    "School Type": "Ivy League",
+    "Starting Median Salary": 60900,
+    "Mid-Career Median Salary": 120000,
+    "Mid-Career 10th Percentile Salary": 55900,
+    "Mid-Career 25th Percentile Salary": 79200,
+    "Mid-Career 75th Percentile Salary": 192000,
+    "Mid-Career 90th Percentile Salary": 282000
+  },
+  {
+    "School Name": "Cornell University",
+    "School Type": "Ivy League",
+    "Starting Median Salary": 60300,
+    "Mid-Career Median Salary": 110000,
+    "Mid-Career 10th Percentile Salary": 56800,
+    "Mid-Career 25th Percentile Salary": 79800,
+    "Mid-Career 75th Percentile Salary": 160000,
+    "Mid-Career 90th Percentile Salary": 210000
+  },
+  {
+    "School Name": "Brown University",
+    "School Type": "Ivy League",
+    "Starting Median Salary": 56200,
+    "Mid-Career Median Salary": 109000,
+    "Mid-Career 10th Percentile Salary": 55400,
+    "Mid-Career 25th Percentile Salary": 74400,
+    "Mid-Career 75th Percentile Salary": 159000,
+    "Mid-Career 90th Percentile Salary": 228000
+  },
+  {
+    "School Name": "Columbia University",
+    "School Type": "Ivy League",
+    "Starting Median Salary": 59400,
+    "Mid-Career Median Salary": 107000,
+    "Mid-Career 10th Percentile Salary": 50300,
+    "Mid-Career 25th Percentile Salary": 71900,
+    "Mid-Career 75th Percentile Salary": 161000,
+    "Mid-Career 90th Percentile Salary": 241000
+  },
+  {
+    "School Name": "University of California, Berkeley",
+    "School Type": "State",
+    "Starting Median Salary": 59900,
+    "Mid-Career Median Salary": 112000,
+    "Mid-Career 10th Percentile Salary": 59500,
+    "Mid-Career 25th Percentile Salary": 81000,
+    "Mid-Career 75th Percentile Salary": 149000,
+    "Mid-Career 90th Percentile Salary": 201000
+  },
+  {
+    "School Name": "University of Virginia (UVA)",
+    "School Type": "State",
+    "Starting Median Salary": 52700,
+    "Mid-Career Median Salary": 103000,
+    "Mid-Career 10th Percentile Salary": 52200,
+    "Mid-Career 25th Percentile Salary": 71800,
+    "Mid-Career 75th Percentile Salary": 146000,
+    "Mid-Career 90th Percentile Salary": 215000
+  },
+  {
+    "School Name": "Cal Poly San Luis Obispo",
+    "School Type": "State",
+    "Starting Median Salary": 57200,
+    "Mid-Career Median Salary": 101000,
+    "Mid-Career 10th Percentile Salary": 55000,
+    "Mid-Career 25th Percentile Salary": 74700,
+    "Mid-Career 75th Percentile Salary": 133000,
+    "Mid-Career 90th Percentile Salary": 178000
+  },
+  {
+    "School Name": "University of California at Los Angeles (UCLA)",
+    "School Type": "State",
+    "Starting Median Salary": 52600,
+    "Mid-Career Median Salary": 101000,
+    "Mid-Career 10th Percentile Salary": 51300,
+    "Mid-Career 25th Percentile Salary": 72500,
+    "Mid-Career 75th Percentile Salary": 139000,
+    "Mid-Career 90th Percentile Salary": 193000
+  },
+  {
+    "School Name": "University of California, San Diego (UCSD)",
+    "School Type": "State",
+    "Starting Median Salary": 51100,
+    "Mid-Career Median Salary": 101000,
+    "Mid-Career 10th Percentile Salary": 51700,
+    "Mid-Career 25th Percentile Salary": 75400,
+    "Mid-Career 75th Percentile Salary": 131000,
+    "Mid-Career 90th Percentile Salary": 177000
+  },
+  {
+    "School Name": "University of California, Davis",
+    "School Type": "State",
+    "Starting Median Salary": 52300,
+    "Mid-Career Median Salary": 99600,
+    "Mid-Career 10th Percentile Salary": 52000,
+    "Mid-Career 25th Percentile Salary": 71600,
+    "Mid-Career 75th Percentile Salary": 135000,
+    "Mid-Career 90th Percentile Salary": 202000
+  },
+  {
+    "School Name": "University of Colorado - Boulder (UCB)",
+    "School Type": "State",
+    "Starting Median Salary": 47100,
+    "Mid-Career Median Salary": 97600,
+    "Mid-Career 10th Percentile Salary": 51600,
+    "Mid-Career 25th Percentile Salary": 69000,
+    "Mid-Career 75th Percentile Salary": 128000,
+    "Mid-Career 90th Percentile Salary": 187000
+  },
+  {
+    "School Name": "University of California, Irvine (UCI)",
+    "School Type": "State",
+    "Starting Median Salary": 48300,
+    "Mid-Career Median Salary": 96700,
+    "Mid-Career 10th Percentile Salary": 47800,
+    "Mid-Career 25th Percentile Salary": 66000,
+    "Mid-Career 75th Percentile Salary": 123000,
+    "Mid-Career 90th Percentile Salary": 172000
+  },
+  {
+    "School Name": "University of Illinois at Urbana-Champaign (UIUC)",
+    "School Type": "State",
+    "Starting Median Salary": 52900,
+    "Mid-Career Median Salary": 96100,
+    "Mid-Career 10th Percentile Salary": 48200,
+    "Mid-Career 25th Percentile Salary": 68900,
+    "Mid-Career 75th Percentile Salary": 132000,
+    "Mid-Career 90th Percentile Salary": 177000
+  },
+  {
+    "School Name": "Texas A&M University",
+    "School Type": "State",
+    "Starting Median Salary": 49700,
+    "Mid-Career Median Salary": 96100,
+    "Mid-Career 10th Percentile Salary": 51100,
+    "Mid-Career 25th Percentile Salary": 71300,
+    "Mid-Career 75th Percentile Salary": 131000,
+    "Mid-Career 90th Percentile Salary": 171000
+  },
+  {
+    "School Name": "Binghamton University",
+    "School Type": "State",
+    "Starting Median Salary": 53600,
+    "Mid-Career Median Salary": 95900,
+    "Mid-Career 10th Percentile Salary": 50900,
+    "Mid-Career 25th Percentile Salary": 71200,
+    "Mid-Career 75th Percentile Salary": 146000,
+    "Mid-Career 90th Percentile Salary": 201000
+  },
+  {
+    "School Name": "University of Missouri - Rolla (UMR)",
+    "School Type": "State",
+    "Starting Median Salary": 57100,
+    "Mid-Career Median Salary": 95800,
+    "Mid-Career 10th Percentile Salary": 67600,
+    "Mid-Career 25th Percentile Salary": 80400,
+    "Mid-Career 75th Percentile Salary": 122000,
+    "Mid-Career 90th Percentile Salary": 166000
+  },
+  {
+    "School Name": "San Jose State University (SJSU)",
+    "School Type": "State",
+    "Starting Median Salary": 53500,
+    "Mid-Career Median Salary": 95600,
+    "Mid-Career 10th Percentile Salary": 50700,
+    "Mid-Career 25th Percentile Salary": 70500,
+    "Mid-Career 75th Percentile Salary": 122000,
+    "Mid-Career 90th Percentile Salary": 156000
+  },
+  {
+    "School Name": "University of Maryland, College Park",
+    "School Type": "State",
+    "Starting Median Salary": 52000,
+    "Mid-Career Median Salary": 95000,
+    "Mid-Career 10th Percentile Salary": 50400,
+    "Mid-Career 25th Percentile Salary": 68300,
+    "Mid-Career 75th Percentile Salary": 126000,
+    "Mid-Career 90th Percentile Salary": 166000
+  },
+  {
+    "School Name": "University of California, Santa Barbara (UCSB)",
+    "School Type": "State",
+    "Starting Median Salary": 50500,
+    "Mid-Career Median Salary": 95000,
+    "Mid-Career 10th Percentile Salary": 51300,
+    "Mid-Career 25th Percentile Salary": 71200,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": 173000
+  },
+  {
+    "School Name": "University of Texas (UT) - Austin",
+    "School Type": "State",
+    "Starting Median Salary": 49700,
+    "Mid-Career Median Salary": 93900,
+    "Mid-Career 10th Percentile Salary": 50100,
+    "Mid-Career 25th Percentile Salary": 67400,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": 188000
+  },
+  {
+    "School Name": "University of Michigan",
+    "School Type": "State",
+    "Starting Median Salary": 52700,
+    "Mid-Career Median Salary": 93000,
+    "Mid-Career 10th Percentile Salary": 50900,
+    "Mid-Career 25th Percentile Salary": 69400,
+    "Mid-Career 75th Percentile Salary": 128000,
+    "Mid-Career 90th Percentile Salary": 182000
+  },
+  {
+    "School Name": "Stony Brook University",
+    "School Type": "State",
+    "Starting Median Salary": 49500,
+    "Mid-Career Median Salary": 93000,
+    "Mid-Career 10th Percentile Salary": 47200,
+    "Mid-Career 25th Percentile Salary": 67100,
+    "Mid-Career 75th Percentile Salary": 129000,
+    "Mid-Career 90th Percentile Salary": 181000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Albany",
+    "School Type": "State",
+    "Starting Median Salary": 44500,
+    "Mid-Career Median Salary": 92200,
+    "Mid-Career 10th Percentile Salary": 47000,
+    "Mid-Career 25th Percentile Salary": 63100,
+    "Mid-Career 75th Percentile Salary": 135000,
+    "Mid-Career 90th Percentile Salary": 209000
+  },
+  {
+    "School Name": "Rutgers University",
+    "School Type": "State",
+    "Starting Median Salary": 50300,
+    "Mid-Career Median Salary": 91800,
+    "Mid-Career 10th Percentile Salary": 48100,
+    "Mid-Career 25th Percentile Salary": 65100,
+    "Mid-Career 75th Percentile Salary": 128000,
+    "Mid-Career 90th Percentile Salary": 176000
+  },
+  {
+    "School Name": "Purdue University",
+    "School Type": "State",
+    "Starting Median Salary": 51400,
+    "Mid-Career Median Salary": 90500,
+    "Mid-Career 10th Percentile Salary": 49900,
+    "Mid-Career 25th Percentile Salary": 67400,
+    "Mid-Career 75th Percentile Salary": 121000,
+    "Mid-Career 90th Percentile Salary": 168000
+  },
+  {
+    "School Name": "University of Connecticut (UConn)",
+    "School Type": "State",
+    "Starting Median Salary": 48000,
+    "Mid-Career Median Salary": 88800,
+    "Mid-Career 10th Percentile Salary": 46100,
+    "Mid-Career 25th Percentile Salary": 66400,
+    "Mid-Career 75th Percentile Salary": 120000,
+    "Mid-Career 90th Percentile Salary": 162000
+  },
+  {
+    "School Name": "University of Massachusetts (UMass) - Amherst",
+    "School Type": "State",
+    "Starting Median Salary": 46600,
+    "Mid-Career Median Salary": 88200,
+    "Mid-Career 10th Percentile Salary": 43100,
+    "Mid-Career 25th Percentile Salary": 61300,
+    "Mid-Career 75th Percentile Salary": 122000,
+    "Mid-Career 90th Percentile Salary": 168000
+  },
+  {
+    "School Name": "California State University (CSU), Chico",
+    "School Type": "State",
+    "Starting Median Salary": 47400,
+    "Mid-Career Median Salary": 88100,
+    "Mid-Career 10th Percentile Salary": 46800,
+    "Mid-Career 25th Percentile Salary": 62800,
+    "Mid-Career 75th Percentile Salary": 122000,
+    "Mid-Career 90th Percentile Salary": 154000
+  },
+  {
+    "School Name": "University of Florida (UF)",
+    "School Type": "State",
+    "Starting Median Salary": 47100,
+    "Mid-Career Median Salary": 87900,
+    "Mid-Career 10th Percentile Salary": 45400,
+    "Mid-Career 25th Percentile Salary": 62900,
+    "Mid-Career 75th Percentile Salary": 120000,
+    "Mid-Career 90th Percentile Salary": 172000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Madison",
+    "School Type": "State",
+    "Starting Median Salary": 48900,
+    "Mid-Career Median Salary": 87800,
+    "Mid-Career 10th Percentile Salary": 47400,
+    "Mid-Career 25th Percentile Salary": 62400,
+    "Mid-Career 75th Percentile Salary": 118000,
+    "Mid-Career 90th Percentile Salary": 170000
+  },
+  {
+    "School Name": "Louisiana State University (LSU)",
+    "School Type": "State",
+    "Starting Median Salary": 46900,
+    "Mid-Career Median Salary": 87800,
+    "Mid-Career 10th Percentile Salary": 43700,
+    "Mid-Career 25th Percentile Salary": 61300,
+    "Mid-Career 75th Percentile Salary": 120000,
+    "Mid-Career 90th Percentile Salary": 165000
+  },
+  {
+    "School Name": "California State University, Fullerton (CSUF)",
+    "School Type": "State",
+    "Starting Median Salary": 45700,
+    "Mid-Career Median Salary": 87000,
+    "Mid-Career 10th Percentile Salary": 45400,
+    "Mid-Career 25th Percentile Salary": 62500,
+    "Mid-Career 75th Percentile Salary": 119000,
+    "Mid-Career 90th Percentile Salary": 158000
+  },
+  {
+    "School Name": "George Mason University",
+    "School Type": "State",
+    "Starting Median Salary": 47800,
+    "Mid-Career Median Salary": 86900,
+    "Mid-Career 10th Percentile Salary": 51300,
+    "Mid-Career 25th Percentile Salary": 67200,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 150000
+  },
+  {
+    "School Name": "University of Massachusetts (UMass) - Lowell",
+    "School Type": "State",
+    "Starting Median Salary": 45400,
+    "Mid-Career Median Salary": 86600,
+    "Mid-Career 10th Percentile Salary": 50900,
+    "Mid-Career 25th Percentile Salary": 65000,
+    "Mid-Career 75th Percentile Salary": 113000,
+    "Mid-Career 90th Percentile Salary": 158000
+  },
+  {
+    "School Name": "San Francisco State University (SFSU)",
+    "School Type": "State",
+    "Starting Median Salary": 47300,
+    "Mid-Career Median Salary": 86400,
+    "Mid-Career 10th Percentile Salary": 45100,
+    "Mid-Career 25th Percentile Salary": 62700,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 150000
+  },
+  {
+    "School Name": "University of Arizona",
+    "School Type": "State",
+    "Starting Median Salary": 47500,
+    "Mid-Career Median Salary": 86100,
+    "Mid-Career 10th Percentile Salary": 44800,
+    "Mid-Career 25th Percentile Salary": 61700,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 160000
+  },
+  {
+    "School Name": "Clemson University",
+    "School Type": "State",
+    "Starting Median Salary": 48400,
+    "Mid-Career Median Salary": 86000,
+    "Mid-Career 10th Percentile Salary": 50500,
+    "Mid-Career 25th Percentile Salary": 61800,
+    "Mid-Career 75th Percentile Salary": 111000,
+    "Mid-Career 90th Percentile Salary": 150000
+  },
+  {
+    "School Name": "University of Georgia (UGA)",
+    "School Type": "State",
+    "Starting Median Salary": 44100,
+    "Mid-Career Median Salary": 86000,
+    "Mid-Career 10th Percentile Salary": 43100,
+    "Mid-Career 25th Percentile Salary": 57800,
+    "Mid-Career 75th Percentile Salary": 118000,
+    "Mid-Career 90th Percentile Salary": 164000
+  },
+  {
+    "School Name": "Pennsylvania State University (PSU)",
+    "School Type": "State",
+    "Starting Median Salary": 49900,
+    "Mid-Career Median Salary": 85700,
+    "Mid-Career 10th Percentile Salary": 46300,
+    "Mid-Career 25th Percentile Salary": 62000,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 160000
+  },
+  {
+    "School Name": "University of Washington (UW)",
+    "School Type": "State",
+    "Starting Median Salary": 48800,
+    "Mid-Career Median Salary": 85300,
+    "Mid-Career 10th Percentile Salary": 47000,
+    "Mid-Career 25th Percentile Salary": 59800,
+    "Mid-Career 75th Percentile Salary": 115000,
+    "Mid-Career 90th Percentile Salary": 149000
+  },
+  {
+    "School Name": "Michigan State University (MSU)",
+    "School Type": "State",
+    "Starting Median Salary": 46300,
+    "Mid-Career Median Salary": 85300,
+    "Mid-Career 10th Percentile Salary": 44200,
+    "Mid-Career 25th Percentile Salary": 61500,
+    "Mid-Career 75th Percentile Salary": 119000,
+    "Mid-Career 90th Percentile Salary": 170000
+  },
+  {
+    "School Name": "University of Rhode Island (URI)",
+    "School Type": "State",
+    "Starting Median Salary": 43900,
+    "Mid-Career Median Salary": 85300,
+    "Mid-Career 10th Percentile Salary": 45400,
+    "Mid-Career 25th Percentile Salary": 60100,
+    "Mid-Career 75th Percentile Salary": 112000,
+    "Mid-Career 90th Percentile Salary": 157000
+  },
+  {
+    "School Name": "San Diego State University (SDSU)",
+    "School Type": "State",
+    "Starting Median Salary": 46200,
+    "Mid-Career Median Salary": 85200,
+    "Mid-Career 10th Percentile Salary": 45500,
+    "Mid-Career 25th Percentile Salary": 61800,
+    "Mid-Career 75th Percentile Salary": 116000,
+    "Mid-Career 90th Percentile Salary": 158000
+  },
+  {
+    "School Name": "Auburn University",
+    "School Type": "State",
+    "Starting Median Salary": 45400,
+    "Mid-Career Median Salary": 84700,
+    "Mid-Career 10th Percentile Salary": 45400,
+    "Mid-Career 25th Percentile Salary": 62700,
+    "Mid-Career 75th Percentile Salary": 109000,
+    "Mid-Career 90th Percentile Salary": 145000
+  },
+  {
+    "School Name": "Washington State University (WSU)",
+    "School Type": "State",
+    "Starting Median Salary": 45300,
+    "Mid-Career Median Salary": 84700,
+    "Mid-Career 10th Percentile Salary": 43600,
+    "Mid-Career 25th Percentile Salary": 59000,
+    "Mid-Career 75th Percentile Salary": 113000,
+    "Mid-Career 90th Percentile Salary": 162000
+  },
+  {
+    "School Name": "California State University, Long Beach (CSULB)",
+    "School Type": "State",
+    "Starting Median Salary": 45100,
+    "Mid-Career Median Salary": 84700,
+    "Mid-Career 10th Percentile Salary": 47400,
+    "Mid-Career 25th Percentile Salary": 62500,
+    "Mid-Career 75th Percentile Salary": 113000,
+    "Mid-Career 90th Percentile Salary": 154000
+  },
+  {
+    "School Name": "Iowa State University",
+    "School Type": "State",
+    "Starting Median Salary": 45400,
+    "Mid-Career Median Salary": 84600,
+    "Mid-Career 10th Percentile Salary": 44400,
+    "Mid-Career 25th Percentile Salary": 60000,
+    "Mid-Career 75th Percentile Salary": 109000,
+    "Mid-Career 90th Percentile Salary": 147000
+  },
+  {
+    "School Name": "University of Delaware",
+    "School Type": "State",
+    "Starting Median Salary": 45900,
+    "Mid-Career Median Salary": 84500,
+    "Mid-Career 10th Percentile Salary": 44500,
+    "Mid-Career 25th Percentile Salary": 64000,
+    "Mid-Career 75th Percentile Salary": 119000,
+    "Mid-Career 90th Percentile Salary": 165000
+  },
+  {
+    "School Name": "University of Colorado - Denver",
+    "School Type": "State",
+    "Starting Median Salary": 46100,
+    "Mid-Career Median Salary": 84400,
+    "Mid-Career 10th Percentile Salary": 46400,
+    "Mid-Career 25th Percentile Salary": 58600,
+    "Mid-Career 75th Percentile Salary": 105000,
+    "Mid-Career 90th Percentile Salary": 144000
+  },
+  {
+    "School Name": "California State University, East Bay (CSUEB)",
+    "School Type": "State",
+    "Starting Median Salary": 49200,
+    "Mid-Career Median Salary": 84300,
+    "Mid-Career 10th Percentile Salary": 46000,
+    "Mid-Career 25th Percentile Salary": 62400,
+    "Mid-Career 75th Percentile Salary": 115000,
+    "Mid-Career 90th Percentile Salary": 155000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Farmingdale",
+    "School Type": "State",
+    "Starting Median Salary": 47300,
+    "Mid-Career Median Salary": 84200,
+    "Mid-Career 10th Percentile Salary": 50200,
+    "Mid-Career 25th Percentile Salary": 59800,
+    "Mid-Career 75th Percentile Salary": 110000,
+    "Mid-Career 90th Percentile Salary": 162000
+  },
+  {
+    "School Name": "University of Minnesota",
+    "School Type": "State",
+    "Starting Median Salary": 46200,
+    "Mid-Career Median Salary": 84200,
+    "Mid-Career 10th Percentile Salary": 49000,
+    "Mid-Career 25th Percentile Salary": 63200,
+    "Mid-Career 75th Percentile Salary": 112000,
+    "Mid-Career 90th Percentile Salary": 148000
+  },
+  {
+    "School Name": "Arizona State University (ASU)",
+    "School Type": "State",
+    "Starting Median Salary": 47400,
+    "Mid-Career Median Salary": 84100,
+    "Mid-Career 10th Percentile Salary": 44600,
+    "Mid-Career 25th Percentile Salary": 60700,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 163000
+  },
+  {
+    "School Name": "University of California, Santa Cruz (UCSC)",
+    "School Type": "State",
+    "Starting Median Salary": 44700,
+    "Mid-Career Median Salary": 84100,
+    "Mid-Career 10th Percentile Salary": 46100,
+    "Mid-Career 25th Percentile Salary": 62000,
+    "Mid-Career 75th Percentile Salary": 121000,
+    "Mid-Career 90th Percentile Salary": 165000
+  },
+  {
+    "School Name": "Indiana University (IU), Bloomington",
+    "School Type": "State",
+    "Starting Median Salary": 46300,
+    "Mid-Career Median Salary": 84000,
+    "Mid-Career 10th Percentile Salary": 43600,
+    "Mid-Career 25th Percentile Salary": 60400,
+    "Mid-Career 75th Percentile Salary": 119000,
+    "Mid-Career 90th Percentile Salary": 178000
+  },
+  {
+    "School Name": "University of Iowa (UI)",
+    "School Type": "State",
+    "Starting Median Salary": 44700,
+    "Mid-Career Median Salary": 83900,
+    "Mid-Career 10th Percentile Salary": 43300,
+    "Mid-Career 25th Percentile Salary": 61100,
+    "Mid-Career 75th Percentile Salary": 116000,
+    "Mid-Career 90th Percentile Salary": 163000
+  },
+  {
+    "School Name": "Ohio State University (OSU)",
+    "School Type": "State",
+    "Starting Median Salary": 44900,
+    "Mid-Career Median Salary": 83700,
+    "Mid-Career 10th Percentile Salary": 45500,
+    "Mid-Career 25th Percentile Salary": 60700,
+    "Mid-Career 75th Percentile Salary": 116000,
+    "Mid-Career 90th Percentile Salary": 162000
+  },
+  {
+    "School Name": "North Carolina State University (NCSU)",
+    "School Type": "State",
+    "Starting Median Salary": 47200,
+    "Mid-Career Median Salary": 83300,
+    "Mid-Career 10th Percentile Salary": 49200,
+    "Mid-Career 25th Percentile Salary": 64800,
+    "Mid-Career 75th Percentile Salary": 112000,
+    "Mid-Career 90th Percentile Salary": 153000
+  },
+  {
+    "School Name": "Oregon State University (OSU)",
+    "School Type": "State",
+    "Starting Median Salary": 45100,
+    "Mid-Career Median Salary": 83300,
+    "Mid-Career 10th Percentile Salary": 46900,
+    "Mid-Career 25th Percentile Salary": 64000,
+    "Mid-Career 75th Percentile Salary": 113000,
+    "Mid-Career 90th Percentile Salary": 146000
+  },
+  {
+    "School Name": "University of Utah",
+    "School Type": "State",
+    "Starting Median Salary": 45400,
+    "Mid-Career Median Salary": 83200,
+    "Mid-Career 10th Percentile Salary": 43000,
+    "Mid-Career 25th Percentile Salary": 58400,
+    "Mid-Career 75th Percentile Salary": 116000,
+    "Mid-Career 90th Percentile Salary": 148000
+  },
+  {
+    "School Name": "University of Nevada, Reno (UNR)",
+    "School Type": "State",
+    "Starting Median Salary": 46500,
+    "Mid-Career Median Salary": 82900,
+    "Mid-Career 10th Percentile Salary": 41900,
+    "Mid-Career 25th Percentile Salary": 54600,
+    "Mid-Career 75th Percentile Salary": 113000,
+    "Mid-Career 90th Percentile Salary": 143000
+  },
+  {
+    "School Name": "University of Oklahoma",
+    "School Type": "State",
+    "Starting Median Salary": 44700,
+    "Mid-Career Median Salary": 82900,
+    "Mid-Career 10th Percentile Salary": 41200,
+    "Mid-Career 25th Percentile Salary": 60300,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 167000
+  },
+  {
+    "School Name": "University of Arkansas",
+    "School Type": "State",
+    "Starting Median Salary": 44100,
+    "Mid-Career Median Salary": 82800,
+    "Mid-Career 10th Percentile Salary": 43200,
+    "Mid-Career 25th Percentile Salary": 60700,
+    "Mid-Career 75th Percentile Salary": 113000,
+    "Mid-Career 90th Percentile Salary": 160000
+  },
+  {
+    "School Name": "University of Vermont (UVM)",
+    "School Type": "State",
+    "Starting Median Salary": 44800,
+    "Mid-Career Median Salary": 82700,
+    "Mid-Career 10th Percentile Salary": 44700,
+    "Mid-Career 25th Percentile Salary": 58000,
+    "Mid-Career 75th Percentile Salary": 122000,
+    "Mid-Career 90th Percentile Salary": 194000
+  },
+  {
+    "School Name": "University of Alabama at Huntsville (UAH)",
+    "School Type": "State",
+    "Starting Median Salary": 43100,
+    "Mid-Career Median Salary": 82700,
+    "Mid-Career 10th Percentile Salary": 46100,
+    "Mid-Career 25th Percentile Salary": 67800,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 132000
+  },
+  {
+    "School Name": "California State University, Sacramento (CSUS)",
+    "School Type": "State",
+    "Starting Median Salary": 47800,
+    "Mid-Career Median Salary": 82400,
+    "Mid-Career 10th Percentile Salary": 42900,
+    "Mid-Career 25th Percentile Salary": 59600,
+    "Mid-Career 75th Percentile Salary": 111000,
+    "Mid-Career 90th Percentile Salary": 154000
+  },
+  {
+    "School Name": "University of Idaho",
+    "School Type": "State",
+    "Starting Median Salary": 44900,
+    "Mid-Career Median Salary": 82000,
+    "Mid-Career 10th Percentile Salary": 43000,
+    "Mid-Career 25th Percentile Salary": 56700,
+    "Mid-Career 75th Percentile Salary": 104000,
+    "Mid-Career 90th Percentile Salary": 142000
+  },
+  {
+    "School Name": "University of Illinois at Chicago",
+    "School Type": "State",
+    "Starting Median Salary": 47500,
+    "Mid-Career Median Salary": 81700,
+    "Mid-Career 10th Percentile Salary": 44700,
+    "Mid-Career 25th Percentile Salary": 58800,
+    "Mid-Career 75th Percentile Salary": 110000,
+    "Mid-Career 90th Percentile Salary": 146000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Buffalo",
+    "School Type": "State",
+    "Starting Median Salary": 46200,
+    "Mid-Career Median Salary": 81700,
+    "Mid-Career 10th Percentile Salary": 45900,
+    "Mid-Career 25th Percentile Salary": 61400,
+    "Mid-Career 75th Percentile Salary": 110000,
+    "Mid-Career 90th Percentile Salary": 147000
+  },
+  {
+    "School Name": "University of Kansas",
+    "School Type": "State",
+    "Starting Median Salary": 42400,
+    "Mid-Career Median Salary": 81600,
+    "Mid-Career 10th Percentile Salary": 44800,
+    "Mid-Career 25th Percentile Salary": 57200,
+    "Mid-Career 75th Percentile Salary": 115000,
+    "Mid-Career 90th Percentile Salary": 156000
+  },
+  {
+    "School Name": "University of New Mexico (UNM)",
+    "School Type": "State",
+    "Starting Median Salary": 41600,
+    "Mid-Career Median Salary": 81600,
+    "Mid-Career 10th Percentile Salary": 41800,
+    "Mid-Career 25th Percentile Salary": 59100,
+    "Mid-Career 75th Percentile Salary": 105000,
+    "Mid-Career 90th Percentile Salary": 141000
+  },
+  {
+    "School Name": "University of North Carolina at Chapel Hill (UNCH)",
+    "School Type": "State",
+    "Starting Median Salary": 42900,
+    "Mid-Career Median Salary": 81500,
+    "Mid-Career 10th Percentile Salary": 43400,
+    "Mid-Career 25th Percentile Salary": 57500,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 155000
+  },
+  {
+    "School Name": "University of Alabama, Tuscaloosa",
+    "School Type": "State",
+    "Starting Median Salary": 41300,
+    "Mid-Career Median Salary": 81400,
+    "Mid-Career 10th Percentile Salary": 40100,
+    "Mid-Career 25th Percentile Salary": 56500,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 161000
+  },
+  {
+    "School Name": "University of California, Riverside (UCR)",
+    "School Type": "State",
+    "Starting Median Salary": 46800,
+    "Mid-Career Median Salary": 81300,
+    "Mid-Career 10th Percentile Salary": 37200,
+    "Mid-Career 25th Percentile Salary": 59900,
+    "Mid-Career 75th Percentile Salary": 109000,
+    "Mid-Career 90th Percentile Salary": 134000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Geneseo",
+    "School Type": "State",
+    "Starting Median Salary": 42300,
+    "Mid-Career Median Salary": 81300,
+    "Mid-Career 10th Percentile Salary": 39300,
+    "Mid-Career 25th Percentile Salary": 47600,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 173000
+  },
+  {
+    "School Name": "University of Missouri - Columbia",
+    "School Type": "State",
+    "Starting Median Salary": 41700,
+    "Mid-Career Median Salary": 81000,
+    "Mid-Career 10th Percentile Salary": 43500,
+    "Mid-Career 25th Percentile Salary": 57100,
+    "Mid-Career 75th Percentile Salary": 111000,
+    "Mid-Career 90th Percentile Salary": 156000
+  },
+  {
+    "School Name": "University of Nebraska",
+    "School Type": "State",
+    "Starting Median Salary": 45700,
+    "Mid-Career Median Salary": 80900,
+    "Mid-Career 10th Percentile Salary": 42200,
+    "Mid-Career 25th Percentile Salary": 56600,
+    "Mid-Career 75th Percentile Salary": 113000,
+    "Mid-Career 90th Percentile Salary": 156000
+  },
+  {
+    "School Name": "University of Texas at Arlington (UTA)",
+    "School Type": "State",
+    "Starting Median Salary": 45400,
+    "Mid-Career Median Salary": 80800,
+    "Mid-Career 10th Percentile Salary": 46400,
+    "Mid-Career 25th Percentile Salary": 61200,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 138000
+  },
+  {
+    "School Name": "Northern Illinois University (NIU)",
+    "School Type": "State",
+    "Starting Median Salary": 43600,
+    "Mid-Career Median Salary": 80800,
+    "Mid-Career 10th Percentile Salary": 43900,
+    "Mid-Career 25th Percentile Salary": 60200,
+    "Mid-Career 75th Percentile Salary": 111000,
+    "Mid-Career 90th Percentile Salary": 161000
+  },
+  {
+    "School Name": "Oklahoma State University",
+    "School Type": "State",
+    "Starting Median Salary": 42800,
+    "Mid-Career Median Salary": 80700,
+    "Mid-Career 10th Percentile Salary": 40100,
+    "Mid-Career 25th Percentile Salary": 56500,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 151000
+  },
+  {
+    "School Name": "University of North Dakota",
+    "School Type": "State",
+    "Starting Median Salary": 44000,
+    "Mid-Career Median Salary": 80600,
+    "Mid-Career 10th Percentile Salary": 43400,
+    "Mid-Career 25th Percentile Salary": 56400,
+    "Mid-Career 75th Percentile Salary": 111000,
+    "Mid-Career 90th Percentile Salary": 157000
+  },
+  {
+    "School Name": "California State University, Northridge (CSUN)",
+    "School Type": "State",
+    "Starting Median Salary": 45500,
+    "Mid-Career Median Salary": 80400,
+    "Mid-Career 10th Percentile Salary": 44500,
+    "Mid-Career 25th Percentile Salary": 57800,
+    "Mid-Career 75th Percentile Salary": 108000,
+    "Mid-Career 90th Percentile Salary": 153000
+  },
+  {
+    "School Name": "University of Houston (UH)",
+    "School Type": "State",
+    "Starting Median Salary": 46000,
+    "Mid-Career Median Salary": 79900,
+    "Mid-Career 10th Percentile Salary": 42000,
+    "Mid-Career 25th Percentile Salary": 56200,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 141000
+  },
+  {
+    "School Name": "University of Mississippi",
+    "School Type": "State",
+    "Starting Median Salary": 41400,
+    "Mid-Career Median Salary": 79700,
+    "Mid-Career 10th Percentile Salary": 40400,
+    "Mid-Career 25th Percentile Salary": 53500,
+    "Mid-Career 75th Percentile Salary": 108000,
+    "Mid-Career 90th Percentile Salary": 186000
+  },
+  {
+    "School Name": "New Mexico State University",
+    "School Type": "State",
+    "Starting Median Salary": 44300,
+    "Mid-Career Median Salary": 79500,
+    "Mid-Career 10th Percentile Salary": 37400,
+    "Mid-Career 25th Percentile Salary": 53800,
+    "Mid-Career 75th Percentile Salary": 102000,
+    "Mid-Career 90th Percentile Salary": 131000
+  },
+  {
+    "School Name": "Lamar University",
+    "School Type": "State",
+    "Starting Median Salary": 46500,
+    "Mid-Career Median Salary": 79400,
+    "Mid-Career 10th Percentile Salary": 38700,
+    "Mid-Career 25th Percentile Salary": 51600,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 158000
+  },
+  {
+    "School Name": "Mississippi State University (MSU)",
+    "School Type": "State",
+    "Starting Median Salary": 44500,
+    "Mid-Career Median Salary": 79300,
+    "Mid-Career 10th Percentile Salary": 43300,
+    "Mid-Career 25th Percentile Salary": 58800,
+    "Mid-Career 75th Percentile Salary": 108000,
+    "Mid-Career 90th Percentile Salary": 151000
+  },
+  {
+    "School Name": "Colorado State University (CSU)",
+    "School Type": "State",
+    "Starting Median Salary": 44800,
+    "Mid-Career Median Salary": 79000,
+    "Mid-Career 10th Percentile Salary": 43800,
+    "Mid-Career 25th Percentile Salary": 57100,
+    "Mid-Career 75th Percentile Salary": 112000,
+    "Mid-Career 90th Percentile Salary": 150000
+  },
+  {
+    "School Name": "Kansas State University (KSU)",
+    "School Type": "State",
+    "Starting Median Salary": 43300,
+    "Mid-Career Median Salary": 79000,
+    "Mid-Career 10th Percentile Salary": 37200,
+    "Mid-Career 25th Percentile Salary": 54100,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 138000
+  },
+  {
+    "School Name": "University of Wyoming (UW)",
+    "School Type": "State",
+    "Starting Median Salary": 44500,
+    "Mid-Career Median Salary": 78700,
+    "Mid-Career 10th Percentile Salary": 41500,
+    "Mid-Career 25th Percentile Salary": 54000,
+    "Mid-Career 75th Percentile Salary": 105000,
+    "Mid-Career 90th Percentile Salary": 145000
+  },
+  {
+    "School Name": "Utah State University",
+    "School Type": "State",
+    "Starting Median Salary": 43800,
+    "Mid-Career Median Salary": 78700,
+    "Mid-Career 10th Percentile Salary": 41600,
+    "Mid-Career 25th Percentile Salary": 55400,
+    "Mid-Career 75th Percentile Salary": 101000,
+    "Mid-Career 90th Percentile Salary": 132000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Platteville",
+    "School Type": "State",
+    "Starting Median Salary": 45800,
+    "Mid-Career Median Salary": 78500,
+    "Mid-Career 10th Percentile Salary": 48400,
+    "Mid-Career 25th Percentile Salary": 61200,
+    "Mid-Career 75th Percentile Salary": 100000,
+    "Mid-Career 90th Percentile Salary": 139000
+  },
+  {
+    "School Name": "University of Oregon",
+    "School Type": "State",
+    "Starting Median Salary": 42200,
+    "Mid-Career Median Salary": 78400,
+    "Mid-Career 10th Percentile Salary": 38100,
+    "Mid-Career 25th Percentile Salary": 56200,
+    "Mid-Career 75th Percentile Salary": 117000,
+    "Mid-Career 90th Percentile Salary": 186000
+  },
+  {
+    "School Name": "University of Kentucky (UK)",
+    "School Type": "State",
+    "Starting Median Salary": 42800,
+    "Mid-Career Median Salary": 78300,
+    "Mid-Career 10th Percentile Salary": 43000,
+    "Mid-Career 25th Percentile Salary": 57300,
+    "Mid-Career 75th Percentile Salary": 107000,
+    "Mid-Career 90th Percentile Salary": 149000
+  },
+  {
+    "School Name": "University of New Hampshire (UNH)",
+    "School Type": "State",
+    "Starting Median Salary": 41800,
+    "Mid-Career Median Salary": 78300,
+    "Mid-Career 10th Percentile Salary": 41700,
+    "Mid-Career 25th Percentile Salary": 56400,
+    "Mid-Career 75th Percentile Salary": 114000,
+    "Mid-Career 90th Percentile Salary": 147000
+  },
+  {
+    "School Name": "University of Massachusetts (UMass) - Boston",
+    "School Type": "State",
+    "Starting Median Salary": 45600,
+    "Mid-Career Median Salary": 78200,
+    "Mid-Career 10th Percentile Salary": 36300,
+    "Mid-Career 25th Percentile Salary": 53800,
+    "Mid-Career 75th Percentile Salary": 109000,
+    "Mid-Career 90th Percentile Salary": 151000
+  },
+  {
+    "School Name": "West Virginia University (WVU)",
+    "School Type": "State",
+    "Starting Median Salary": 43100,
+    "Mid-Career Median Salary": 78100,
+    "Mid-Career 10th Percentile Salary": 39700,
+    "Mid-Career 25th Percentile Salary": 55700,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 141000
+  },
+  {
+    "School Name": "University of Maryland Baltimore County (UMBC)",
+    "School Type": "State",
+    "Starting Median Salary": 47000,
+    "Mid-Career Median Salary": 77800,
+    "Mid-Career 10th Percentile Salary": 46900,
+    "Mid-Career 25th Percentile Salary": 59100,
+    "Mid-Career 75th Percentile Salary": 105000,
+    "Mid-Career 90th Percentile Salary": 130000
+  },
+  {
+    "School Name": "North Dakota State University (NDSU)",
+    "School Type": "State",
+    "Starting Median Salary": 45100,
+    "Mid-Career Median Salary": 77800,
+    "Mid-Career 10th Percentile Salary": 39000,
+    "Mid-Career 25th Percentile Salary": 55800,
+    "Mid-Career 75th Percentile Salary": 100000,
+    "Mid-Career 90th Percentile Salary": 123000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Oswego",
+    "School Type": "State",
+    "Starting Median Salary": 38000,
+    "Mid-Career Median Salary": 77800,
+    "Mid-Career 10th Percentile Salary": 40400,
+    "Mid-Career 25th Percentile Salary": 53000,
+    "Mid-Career 75th Percentile Salary": 115000,
+    "Mid-Career 90th Percentile Salary": 169000
+  },
+  {
+    "School Name": "University of Massachusetts (UMass) - Dartmouth",
+    "School Type": "State",
+    "Starting Median Salary": 43200,
+    "Mid-Career Median Salary": 77700,
+    "Mid-Career 10th Percentile Salary": 43300,
+    "Mid-Career 25th Percentile Salary": 56200,
+    "Mid-Career 75th Percentile Salary": 107000,
+    "Mid-Career 90th Percentile Salary": 132000
+  },
+  {
+    "School Name": "Montana State University - Bozeman",
+    "School Type": "State",
+    "Starting Median Salary": 46600,
+    "Mid-Career Median Salary": 77500,
+    "Mid-Career 10th Percentile Salary": 40200,
+    "Mid-Career 25th Percentile Salary": 58100,
+    "Mid-Career 75th Percentile Salary": 111000,
+    "Mid-Career 90th Percentile Salary": 151000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Oneonta",
+    "School Type": "State",
+    "Starting Median Salary": 37500,
+    "Mid-Career Median Salary": 76700,
+    "Mid-Career 10th Percentile Salary": 40000,
+    "Mid-Career 25th Percentile Salary": 54300,
+    "Mid-Career 75th Percentile Salary": 97700,
+    "Mid-Career 90th Percentile Salary": 155000
+  },
+  {
+    "School Name": "University of Louisiana (UL) at Lafayette",
+    "School Type": "State",
+    "Starting Median Salary": 41100,
+    "Mid-Career Median Salary": 76300,
+    "Mid-Career 10th Percentile Salary": 42000,
+    "Mid-Career 25th Percentile Salary": 54500,
+    "Mid-Career 75th Percentile Salary": 107000,
+    "Mid-Career 90th Percentile Salary": 163000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Plattsburgh",
+    "School Type": "State",
+    "Starting Median Salary": 40800,
+    "Mid-Career Median Salary": 76200,
+    "Mid-Career 10th Percentile Salary": 38400,
+    "Mid-Career 25th Percentile Salary": 54100,
+    "Mid-Career 75th Percentile Salary": 105000,
+    "Mid-Career 90th Percentile Salary": 136000
+  },
+  {
+    "School Name": "Wayne State University",
+    "School Type": "State",
+    "Starting Median Salary": 42800,
+    "Mid-Career Median Salary": 76100,
+    "Mid-Career 10th Percentile Salary": 40100,
+    "Mid-Career 25th Percentile Salary": 56200,
+    "Mid-Career 75th Percentile Salary": 101000,
+    "Mid-Career 90th Percentile Salary": 139000
+  },
+  {
+    "School Name": "University of Hawaii",
+    "School Type": "State",
+    "Starting Median Salary": 43800,
+    "Mid-Career Median Salary": 76000,
+    "Mid-Career 10th Percentile Salary": 40400,
+    "Mid-Career 25th Percentile Salary": 56300,
+    "Mid-Career 75th Percentile Salary": 104000,
+    "Mid-Career 90th Percentile Salary": 128000
+  },
+  {
+    "School Name": "University of Toledo",
+    "School Type": "State",
+    "Starting Median Salary": 43100,
+    "Mid-Career Median Salary": 75900,
+    "Mid-Career 10th Percentile Salary": 40100,
+    "Mid-Career 25th Percentile Salary": 54100,
+    "Mid-Career 75th Percentile Salary": 100000,
+    "Mid-Career 90th Percentile Salary": 133000
+  },
+  {
+    "School Name": "Florida International University (FIU)",
+    "School Type": "State",
+    "Starting Median Salary": 43200,
+    "Mid-Career Median Salary": 75500,
+    "Mid-Career 10th Percentile Salary": 40500,
+    "Mid-Career 25th Percentile Salary": 55800,
+    "Mid-Career 75th Percentile Salary": 98200,
+    "Mid-Career 90th Percentile Salary": 136000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Whitewater",
+    "School Type": "State",
+    "Starting Median Salary": 40800,
+    "Mid-Career Median Salary": 75500,
+    "Mid-Career 10th Percentile Salary": 38200,
+    "Mid-Career 25th Percentile Salary": 53500,
+    "Mid-Career 75th Percentile Salary": 99300,
+    "Mid-Career 90th Percentile Salary": 150000
+  },
+  {
+    "School Name": "Western Washington University",
+    "School Type": "State",
+    "Starting Median Salary": 42700,
+    "Mid-Career Median Salary": 75400,
+    "Mid-Career 10th Percentile Salary": 41300,
+    "Mid-Career 25th Percentile Salary": 56700,
+    "Mid-Career 75th Percentile Salary": 99200,
+    "Mid-Career 90th Percentile Salary": 119000
+  },
+  {
+    "School Name": "Minnesota State University - Mankato",
+    "School Type": "State",
+    "Starting Median Salary": 43300,
+    "Mid-Career Median Salary": 74700,
+    "Mid-Career 10th Percentile Salary": 39500,
+    "Mid-Career 25th Percentile Salary": 53800,
+    "Mid-Career 75th Percentile Salary": 95700,
+    "Mid-Career 90th Percentile Salary": 140000
+  },
+  {
+    "School Name": "University of Tennessee",
+    "School Type": "State",
+    "Starting Median Salary": 43800,
+    "Mid-Career Median Salary": 74600,
+    "Mid-Career 10th Percentile Salary": 41900,
+    "Mid-Career 25th Percentile Salary": 53200,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 153000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Milwaukee",
+    "School Type": "State",
+    "Starting Median Salary": 42300,
+    "Mid-Career Median Salary": 74600,
+    "Mid-Career 10th Percentile Salary": 40600,
+    "Mid-Career 25th Percentile Salary": 54000,
+    "Mid-Career 75th Percentile Salary": 93700,
+    "Mid-Career 90th Percentile Salary": 123000
+  },
+  {
+    "School Name": "University of Arkansas - Monticello (UAM)",
+    "School Type": "State",
+    "Starting Median Salary": 39200,
+    "Mid-Career Median Salary": 74500,
+    "Mid-Career 10th Percentile Salary": 32800,
+    "Mid-Career 25th Percentile Salary": 46100,
+    "Mid-Career 75th Percentile Salary": 110000,
+    "Mid-Career 90th Percentile Salary": 161000
+  },
+  {
+    "School Name": "Penn State - Harrisburg",
+    "School Type": "State",
+    "Starting Median Salary": 45700,
+    "Mid-Career Median Salary": 74000,
+    "Mid-Career 10th Percentile Salary": 44000,
+    "Mid-Career 25th Percentile Salary": 53100,
+    "Mid-Career 75th Percentile Salary": 104000,
+    "Mid-Career 90th Percentile Salary": 150000
+  },
+  {
+    "School Name": "University of North Carolina at Charlotte (UNCC)",
+    "School Type": "State",
+    "Starting Median Salary": 43100,
+    "Mid-Career Median Salary": 74000,
+    "Mid-Career 10th Percentile Salary": 38200,
+    "Mid-Career 25th Percentile Salary": 53200,
+    "Mid-Career 75th Percentile Salary": 99500,
+    "Mid-Career 90th Percentile Salary": 133000
+  },
+  {
+    "School Name": "Georgia State University",
+    "School Type": "State",
+    "Starting Median Salary": 41800,
+    "Mid-Career Median Salary": 74000,
+    "Mid-Career 10th Percentile Salary": 43000,
+    "Mid-Career 25th Percentile Salary": 55300,
+    "Mid-Career 75th Percentile Salary": 99900,
+    "Mid-Career 90th Percentile Salary": 145000
+  },
+  {
+    "School Name": "Western Michigan University (WMU)",
+    "School Type": "State",
+    "Starting Median Salary": 42300,
+    "Mid-Career Median Salary": 73800,
+    "Mid-Career 10th Percentile Salary": 40100,
+    "Mid-Career 25th Percentile Salary": 52500,
+    "Mid-Career 75th Percentile Salary": 103000,
+    "Mid-Career 90th Percentile Salary": 135000
+  },
+  {
+    "School Name": "South Dakota State University (SDSU)",
+    "School Type": "State",
+    "Starting Median Salary": 41100,
+    "Mid-Career Median Salary": 73500,
+    "Mid-Career 10th Percentile Salary": 34100,
+    "Mid-Career 25th Percentile Salary": 49900,
+    "Mid-Career 75th Percentile Salary": 99400,
+    "Mid-Career 90th Percentile Salary": 129000
+  },
+  {
+    "School Name": "Idaho State University",
+    "School Type": "State",
+    "Starting Median Salary": 44900,
+    "Mid-Career Median Salary": 73400,
+    "Mid-Career 10th Percentile Salary": 35400,
+    "Mid-Career 25th Percentile Salary": 49600,
+    "Mid-Career 75th Percentile Salary": 101000,
+    "Mid-Career 90th Percentile Salary": 143000
+  },
+  {
+    "School Name": "Ohio University",
+    "School Type": "State",
+    "Starting Median Salary": 42200,
+    "Mid-Career Median Salary": 73400,
+    "Mid-Career 10th Percentile Salary": 36600,
+    "Mid-Career 25th Percentile Salary": 52800,
+    "Mid-Career 75th Percentile Salary": 106000,
+    "Mid-Career 90th Percentile Salary": 150000
+  },
+  {
+    "School Name": "Illinois State University",
+    "School Type": "State",
+    "Starting Median Salary": 42000,
+    "Mid-Career Median Salary": 73400,
+    "Mid-Career 10th Percentile Salary": 39100,
+    "Mid-Career 25th Percentile Salary": 55200,
+    "Mid-Career 75th Percentile Salary": 105000,
+    "Mid-Career 90th Percentile Salary": 142000
+  },
+  {
+    "School Name": "Cleveland State University",
+    "School Type": "State",
+    "Starting Median Salary": 43500,
+    "Mid-Career Median Salary": 73100,
+    "Mid-Career 10th Percentile Salary": 39500,
+    "Mid-Career 25th Percentile Salary": 51600,
+    "Mid-Career 75th Percentile Salary": 97000,
+    "Mid-Career 90th Percentile Salary": 137000
+  },
+  {
+    "School Name": "Florida State University (FSU)",
+    "School Type": "State",
+    "Starting Median Salary": 42100,
+    "Mid-Career Median Salary": 73000,
+    "Mid-Career 10th Percentile Salary": 39600,
+    "Mid-Career 25th Percentile Salary": 52800,
+    "Mid-Career 75th Percentile Salary": 107000,
+    "Mid-Career 90th Percentile Salary": 156000
+  },
+  {
+    "School Name": "University of Alaska, Anchorage",
+    "School Type": "State",
+    "Starting Median Salary": 45900,
+    "Mid-Career Median Salary": 72600,
+    "Mid-Career 10th Percentile Salary": 39800,
+    "Mid-Career 25th Percentile Salary": 56600,
+    "Mid-Career 75th Percentile Salary": 99300,
+    "Mid-Career 90th Percentile Salary": 137000
+  },
+  {
+    "School Name": "Fitchburg State College",
+    "School Type": "State",
+    "Starting Median Salary": 42400,
+    "Mid-Career Median Salary": 72600,
+    "Mid-Career 10th Percentile Salary": 43300,
+    "Mid-Career 25th Percentile Salary": 56100,
+    "Mid-Career 75th Percentile Salary": 99600,
+    "Mid-Career 90th Percentile Salary": 151000
+  },
+  {
+    "School Name": "University of Nebraska at Omaha",
+    "School Type": "State",
+    "Starting Median Salary": 41500,
+    "Mid-Career Median Salary": 72600,
+    "Mid-Career 10th Percentile Salary": 39500,
+    "Mid-Career 25th Percentile Salary": 54400,
+    "Mid-Career 75th Percentile Salary": 97400,
+    "Mid-Career 90th Percentile Salary": 126000
+  },
+  {
+    "School Name": "Southern Illinois University Carbondale",
+    "School Type": "State",
+    "Starting Median Salary": 43000,
+    "Mid-Career Median Salary": 72500,
+    "Mid-Career 10th Percentile Salary": 38300,
+    "Mid-Career 25th Percentile Salary": 51300,
+    "Mid-Career 75th Percentile Salary": 99300,
+    "Mid-Career 90th Percentile Salary": 139000
+  },
+  {
+    "School Name": "University of Texas at El Paso (UTEP)",
+    "School Type": "State",
+    "Starting Median Salary": 43400,
+    "Mid-Career Median Salary": 72100,
+    "Mid-Career 10th Percentile Salary": 37700,
+    "Mid-Career 25th Percentile Salary": 50400,
+    "Mid-Career 75th Percentile Salary": 99500,
+    "Mid-Career 90th Percentile Salary": 133000
+  },
+  {
+    "School Name": "California State University, Dominguez Hills (CSUDH)",
+    "School Type": "State",
+    "Starting Median Salary": 42700,
+    "Mid-Career Median Salary": 72100,
+    "Mid-Career 10th Percentile Salary": 30800,
+    "Mid-Career 25th Percentile Salary": 47000,
+    "Mid-Career 75th Percentile Salary": 92200,
+    "Mid-Career 90th Percentile Salary": 132000
+  },
+  {
+    "School Name": "University Of Maine",
+    "School Type": "State",
+    "Starting Median Salary": 41200,
+    "Mid-Career Median Salary": 72100,
+    "Mid-Career 10th Percentile Salary": 41700,
+    "Mid-Career 25th Percentile Salary": 55600,
+    "Mid-Career 75th Percentile Salary": 99300,
+    "Mid-Career 90th Percentile Salary": 141000
+  },
+  {
+    "School Name": "Eastern Michigan University",
+    "School Type": "State",
+    "Starting Median Salary": 40300,
+    "Mid-Career Median Salary": 72100,
+    "Mid-Career 10th Percentile Salary": 37900,
+    "Mid-Career 25th Percentile Salary": 52800,
+    "Mid-Career 75th Percentile Salary": 95400,
+    "Mid-Career 90th Percentile Salary": 135000
+  },
+  {
+    "School Name": "Bowling Green State University",
+    "School Type": "State",
+    "Starting Median Salary": 39800,
+    "Mid-Career Median Salary": 72100,
+    "Mid-Career 10th Percentile Salary": 38200,
+    "Mid-Career 25th Percentile Salary": 51800,
+    "Mid-Career 75th Percentile Salary": 101000,
+    "Mid-Career 90th Percentile Salary": 146000
+  },
+  {
+    "School Name": "University of Montana",
+    "School Type": "State",
+    "Starting Median Salary": 37300,
+    "Mid-Career Median Salary": 71900,
+    "Mid-Career 10th Percentile Salary": 37000,
+    "Mid-Career 25th Percentile Salary": 51500,
+    "Mid-Career 75th Percentile Salary": 96400,
+    "Mid-Career 90th Percentile Salary": 138000
+  },
+  {
+    "School Name": "University of Central Florida (UCF)",
+    "School Type": "State",
+    "Starting Median Salary": 42600,
+    "Mid-Career Median Salary": 71700,
+    "Mid-Career 10th Percentile Salary": 39500,
+    "Mid-Career 25th Percentile Salary": 51500,
+    "Mid-Career 75th Percentile Salary": 98400,
+    "Mid-Career 90th Percentile Salary": 125000
+  },
+  {
+    "School Name": "University of South Carolina",
+    "School Type": "State",
+    "Starting Median Salary": 40000,
+    "Mid-Career Median Salary": 71700,
+    "Mid-Career 10th Percentile Salary": 36300,
+    "Mid-Career 25th Percentile Salary": 49900,
+    "Mid-Career 75th Percentile Salary": 98400,
+    "Mid-Career 90th Percentile Salary": 131000
+  },
+  {
+    "School Name": "University of Nevada, Las Vegas (UNLV)",
+    "School Type": "State",
+    "Starting Median Salary": 45200,
+    "Mid-Career Median Salary": 71600,
+    "Mid-Career 10th Percentile Salary": 39000,
+    "Mid-Career 25th Percentile Salary": 52400,
+    "Mid-Career 75th Percentile Salary": 100000,
+    "Mid-Career 90th Percentile Salary": 128000
+  },
+  {
+    "School Name": "St. Cloud State University",
+    "School Type": "State",
+    "Starting Median Salary": 41800,
+    "Mid-Career Median Salary": 71400,
+    "Mid-Career 10th Percentile Salary": 38700,
+    "Mid-Career 25th Percentile Salary": 49400,
+    "Mid-Career 75th Percentile Salary": 101000,
+    "Mid-Career 90th Percentile Salary": 126000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Parkside",
+    "School Type": "State",
+    "Starting Median Salary": 40700,
+    "Mid-Career Median Salary": 71400,
+    "Mid-Career 10th Percentile Salary": 40900,
+    "Mid-Career 25th Percentile Salary": 53100,
+    "Mid-Career 75th Percentile Salary": 84900,
+    "Mid-Career 90th Percentile Salary": 119000
+  },
+  {
+    "School Name": "California State University (CSU), Stanislaus",
+    "School Type": "State",
+    "Starting Median Salary": 38000,
+    "Mid-Career Median Salary": 71400,
+    "Mid-Career 10th Percentile Salary": 33700,
+    "Mid-Career 25th Percentile Salary": 50500,
+    "Mid-Career 75th Percentile Salary": 94100,
+    "Mid-Career 90th Percentile Salary": 121000
+  },
+  {
+    "School Name": "Humboldt State University",
+    "School Type": "State",
+    "Starting Median Salary": 42600,
+    "Mid-Career Median Salary": 71300,
+    "Mid-Career 10th Percentile Salary": 36000,
+    "Mid-Career 25th Percentile Salary": 56300,
+    "Mid-Career 75th Percentile Salary": 94400,
+    "Mid-Career 90th Percentile Salary": 117000
+  },
+  {
+    "School Name": "Florida Atlantic University (FAU)",
+    "School Type": "State",
+    "Starting Median Salary": 42600,
+    "Mid-Career Median Salary": 71100,
+    "Mid-Career 10th Percentile Salary": 40700,
+    "Mid-Career 25th Percentile Salary": 53000,
+    "Mid-Career 75th Percentile Salary": 99500,
+    "Mid-Career 90th Percentile Salary": 137000
+  },
+  {
+    "School Name": "University of South Florida (USF)",
+    "School Type": "State",
+    "Starting Median Salary": 41100,
+    "Mid-Career Median Salary": 71100,
+    "Mid-Career 10th Percentile Salary": 39600,
+    "Mid-Career 25th Percentile Salary": 51500,
+    "Mid-Career 75th Percentile Salary": 98100,
+    "Mid-Career 90th Percentile Salary": 131000
+  },
+  {
+    "School Name": "Portland State University (PSU)",
+    "School Type": "State",
+    "Starting Median Salary": 42600,
+    "Mid-Career Median Salary": 70900,
+    "Mid-Career 10th Percentile Salary": 40700,
+    "Mid-Career 25th Percentile Salary": 52300,
+    "Mid-Career 75th Percentile Salary": 94400,
+    "Mid-Career 90th Percentile Salary": 123000
+  },
+  {
+    "School Name": "Eastern Washington University",
+    "School Type": "State",
+    "Starting Median Salary": 38600,
+    "Mid-Career Median Salary": 70900,
+    "Mid-Career 10th Percentile Salary": 36000,
+    "Mid-Career 25th Percentile Salary": 50500,
+    "Mid-Career 75th Percentile Salary": 93100,
+    "Mid-Career 90th Percentile Salary": 117000
+  },
+  {
+    "School Name": "University of Texas at San Antonio (UTSA)",
+    "School Type": "State",
+    "Starting Median Salary": 42500,
+    "Mid-Career Median Salary": 70700,
+    "Mid-Career 10th Percentile Salary": 39100,
+    "Mid-Career 25th Percentile Salary": 49800,
+    "Mid-Career 75th Percentile Salary": 92700,
+    "Mid-Career 90th Percentile Salary": 121000
+  },
+  {
+    "School Name": "University of Akron",
+    "School Type": "State",
+    "Starting Median Salary": 41100,
+    "Mid-Career Median Salary": 70300,
+    "Mid-Career 10th Percentile Salary": 40600,
+    "Mid-Career 25th Percentile Salary": 53300,
+    "Mid-Career 75th Percentile Salary": 95200,
+    "Mid-Career 90th Percentile Salary": 127000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Potsdam",
+    "School Type": "State",
+    "Starting Median Salary": 38000,
+    "Mid-Career Median Salary": 70300,
+    "Mid-Career 10th Percentile Salary": 35100,
+    "Mid-Career 25th Percentile Salary": 51200,
+    "Mid-Career 75th Percentile Salary": 100000,
+    "Mid-Career 90th Percentile Salary": 179000
+  },
+  {
+    "School Name": "University of Alabama at Birmingham (UAB)",
+    "School Type": "State",
+    "Starting Median Salary": 39200,
+    "Mid-Career Median Salary": 70100,
+    "Mid-Career 10th Percentile Salary": 43000,
+    "Mid-Career 25th Percentile Salary": 53400,
+    "Mid-Career 75th Percentile Salary": 91400,
+    "Mid-Career 90th Percentile Salary": 125000
+  },
+  {
+    "School Name": "University of Memphis (U of M)",
+    "School Type": "State",
+    "Starting Median Salary": 41400,
+    "Mid-Career Median Salary": 69700,
+    "Mid-Career 10th Percentile Salary": 36100,
+    "Mid-Career 25th Percentile Salary": 49100,
+    "Mid-Career 75th Percentile Salary": 93500,
+    "Mid-Career 90th Percentile Salary": 127000
+  },
+  {
+    "School Name": "Boise State University (BSU)",
+    "School Type": "State",
+    "Starting Median Salary": 40800,
+    "Mid-Career Median Salary": 69500,
+    "Mid-Career 10th Percentile Salary": 37400,
+    "Mid-Career 25th Percentile Salary": 48700,
+    "Mid-Career 75th Percentile Salary": 87500,
+    "Mid-Career 90th Percentile Salary": 110000
+  },
+  {
+    "School Name": "Missouri State University (MSU)",
+    "School Type": "State",
+    "Starting Median Salary": 36100,
+    "Mid-Career Median Salary": 69500,
+    "Mid-Career 10th Percentile Salary": 33300,
+    "Mid-Career 25th Percentile Salary": 46900,
+    "Mid-Career 75th Percentile Salary": 102000,
+    "Mid-Career 90th Percentile Salary": 134000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - La Crosse",
+    "School Type": "State",
+    "Starting Median Salary": 42200,
+    "Mid-Career Median Salary": 69300,
+    "Mid-Career 10th Percentile Salary": 37500,
+    "Mid-Career 25th Percentile Salary": 47200,
+    "Mid-Career 75th Percentile Salary": 93100,
+    "Mid-Career 90th Percentile Salary": 133000
+  },
+  {
+    "School Name": "Appalachian State University",
+    "School Type": "State",
+    "Starting Median Salary": 40400,
+    "Mid-Career Median Salary": 69100,
+    "Mid-Career 10th Percentile Salary": 37200,
+    "Mid-Career 25th Percentile Salary": 50400,
+    "Mid-Career 75th Percentile Salary": 90800,
+    "Mid-Career 90th Percentile Salary": 115000
+  },
+  {
+    "School Name": "Virginia Commonwealth University (VCU)",
+    "School Type": "State",
+    "Starting Median Salary": 42000,
+    "Mid-Career Median Salary": 68400,
+    "Mid-Career 10th Percentile Salary": 37400,
+    "Mid-Career 25th Percentile Salary": 51900,
+    "Mid-Career 75th Percentile Salary": 100000,
+    "Mid-Career 90th Percentile Salary": 123000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Stout",
+    "School Type": "State",
+    "Starting Median Salary": 43600,
+    "Mid-Career Median Salary": 68300,
+    "Mid-Career 10th Percentile Salary": 40900,
+    "Mid-Career 25th Percentile Salary": 50600,
+    "Mid-Career 75th Percentile Salary": 91600,
+    "Mid-Career 90th Percentile Salary": 136000
+  },
+  {
+    "School Name": "East Carolina University (ECU)",
+    "School Type": "State",
+    "Starting Median Salary": 40200,
+    "Mid-Career Median Salary": 67500,
+    "Mid-Career 10th Percentile Salary": 38400,
+    "Mid-Career 25th Percentile Salary": 52000,
+    "Mid-Career 75th Percentile Salary": 98700,
+    "Mid-Career 90th Percentile Salary": 151000
+  },
+  {
+    "School Name": "Utah Valley State College",
+    "School Type": "State",
+    "Starting Median Salary": 42400,
+    "Mid-Career Median Salary": 67100,
+    "Mid-Career 10th Percentile Salary": 27000,
+    "Mid-Career 25th Percentile Salary": 44100,
+    "Mid-Career 75th Percentile Salary": 84900,
+    "Mid-Career 90th Percentile Salary": 110000
+  },
+  {
+    "School Name": "University of Missouri - St. Louis (UMSL)",
+    "School Type": "State",
+    "Starting Median Salary": 41400,
+    "Mid-Career Median Salary": 67100,
+    "Mid-Career 10th Percentile Salary": 36800,
+    "Mid-Career 25th Percentile Salary": 49600,
+    "Mid-Career 75th Percentile Salary": 97600,
+    "Mid-Career 90th Percentile Salary": 144000
+  },
+  {
+    "School Name": "Western Carolina University",
+    "School Type": "State",
+    "Starting Median Salary": 36900,
+    "Mid-Career Median Salary": 66600,
+    "Mid-Career 10th Percentile Salary": 39000,
+    "Mid-Career 25th Percentile Salary": 49500,
+    "Mid-Career 75th Percentile Salary": 94400,
+    "Mid-Career 90th Percentile Salary": 133000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Oshkosh",
+    "School Type": "State",
+    "Starting Median Salary": 39300,
+    "Mid-Career Median Salary": 66400,
+    "Mid-Career 10th Percentile Salary": 37700,
+    "Mid-Career 25th Percentile Salary": 49700,
+    "Mid-Career 75th Percentile Salary": 90100,
+    "Mid-Career 90th Percentile Salary": 138000
+  },
+  {
+    "School Name": "State University of New York (SUNY) at Fredonia",
+    "School Type": "State",
+    "Starting Median Salary": 37800,
+    "Mid-Career Median Salary": 66200,
+    "Mid-Career 10th Percentile Salary": 32800,
+    "Mid-Career 25th Percentile Salary": 44200,
+    "Mid-Career 75th Percentile Salary": 93300,
+    "Mid-Career 90th Percentile Salary": 181000
+  },
+  {
+    "School Name": "University of Missouri - Kansas City (UMKC)",
+    "School Type": "State",
+    "Starting Median Salary": 38900,
+    "Mid-Career Median Salary": 65800,
+    "Mid-Career 10th Percentile Salary": 36300,
+    "Mid-Career 25th Percentile Salary": 48100,
+    "Mid-Career 75th Percentile Salary": 95800,
+    "Mid-Career 90th Percentile Salary": 124000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Eau Claire",
+    "School Type": "State",
+    "Starting Median Salary": 41400,
+    "Mid-Career Median Salary": 64800,
+    "Mid-Career 10th Percentile Salary": 35000,
+    "Mid-Career 25th Percentile Salary": 47300,
+    "Mid-Career 75th Percentile Salary": 93100,
+    "Mid-Career 90th Percentile Salary": 125000
+  },
+  {
+    "School Name": "Ball State University (BSU)",
+    "School Type": "State",
+    "Starting Median Salary": 39100,
+    "Mid-Career Median Salary": 64500,
+    "Mid-Career 10th Percentile Salary": 35500,
+    "Mid-Career 25th Percentile Salary": 48200,
+    "Mid-Career 75th Percentile Salary": 89300,
+    "Mid-Career 90th Percentile Salary": 128000
+  },
+  {
+    "School Name": "University of North Carolina at Wilmington (UNCW)",
+    "School Type": "State",
+    "Starting Median Salary": 37500,
+    "Mid-Career Median Salary": 64400,
+    "Mid-Career 10th Percentile Salary": 32100,
+    "Mid-Career 25th Percentile Salary": 46600,
+    "Mid-Career 75th Percentile Salary": 97100,
+    "Mid-Career 90th Percentile Salary": 129000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Stevens Point",
+    "School Type": "State",
+    "Starting Median Salary": 39800,
+    "Mid-Career Median Salary": 64000,
+    "Mid-Career 10th Percentile Salary": 38400,
+    "Mid-Career 25th Percentile Salary": 45100,
+    "Mid-Career 75th Percentile Salary": 95400,
+    "Mid-Career 90th Percentile Salary": 128000
+  },
+  {
+    "School Name": "University of Southern Maine",
+    "School Type": "State",
+    "Starting Median Salary": 39400,
+    "Mid-Career Median Salary": 63600,
+    "Mid-Career 10th Percentile Salary": 40400,
+    "Mid-Career 25th Percentile Salary": 47900,
+    "Mid-Career 75th Percentile Salary": 85700,
+    "Mid-Career 90th Percentile Salary": 117000
+  },
+  {
+    "School Name": "Arkansas State University (ASU)",
+    "School Type": "State",
+    "Starting Median Salary": 38700,
+    "Mid-Career Median Salary": 63300,
+    "Mid-Career 10th Percentile Salary": 33600,
+    "Mid-Career 25th Percentile Salary": 45300,
+    "Mid-Career 75th Percentile Salary": 83900,
+    "Mid-Career 90th Percentile Salary": 118000
+  },
+  {
+    "School Name": "Kent State University",
+    "School Type": "State",
+    "Starting Median Salary": 38700,
+    "Mid-Career Median Salary": 62600,
+    "Mid-Career 10th Percentile Salary": 36100,
+    "Mid-Career 25th Percentile Salary": 45800,
+    "Mid-Career 75th Percentile Salary": 87000,
+    "Mid-Career 90th Percentile Salary": 124000
+  },
+  {
+    "School Name": "Tarleton State University (TSU)",
+    "School Type": "State",
+    "Starting Median Salary": 40800,
+    "Mid-Career Median Salary": 62400,
+    "Mid-Career 10th Percentile Salary": 32100,
+    "Mid-Career 25th Percentile Salary": 47400,
+    "Mid-Career 75th Percentile Salary": 80400,
+    "Mid-Career 90th Percentile Salary": 126000
+  },
+  {
+    "School Name": "University of Wisconsin (UW) - Green Bay",
+    "School Type": "State",
+    "Starting Median Salary": 35800,
+    "Mid-Career Median Salary": 60600,
+    "Mid-Career 10th Percentile Salary": 35500,
+    "Mid-Career 25th Percentile Salary": 46800,
+    "Mid-Career 75th Percentile Salary": 81800,
+    "Mid-Career 90th Percentile Salary": 102000
+  },
+  {
+    "School Name": "Morehead State University",
+    "School Type": "State",
+    "Starting Median Salary": 34800,
+    "Mid-Career Median Salary": 60600,
+    "Mid-Career 10th Percentile Salary": 34300,
+    "Mid-Career 25th Percentile Salary": 46500,
+    "Mid-Career 75th Percentile Salary": 72000,
+    "Mid-Career 90th Percentile Salary": 91300
+  },
+  {
+    "School Name": "Austin Peay State University",
+    "School Type": "State",
+    "Starting Median Salary": 37700,
+    "Mid-Career Median Salary": 59200,
+    "Mid-Career 10th Percentile Salary": 32200,
+    "Mid-Career 25th Percentile Salary": 40500,
+    "Mid-Career 75th Percentile Salary": 73900,
+    "Mid-Career 90th Percentile Salary": 96200
+  },
+  {
+    "School Name": "Pittsburg State University",
+    "School Type": "State",
+    "Starting Median Salary": 40400,
+    "Mid-Career Median Salary": 58200,
+    "Mid-Career 10th Percentile Salary": 25600,
+    "Mid-Career 25th Percentile Salary": 46000,
+    "Mid-Career 75th Percentile Salary": 84600,
+    "Mid-Career 90th Percentile Salary": 117000
+  },
+  {
+    "School Name": "Southern Utah University",
+    "School Type": "State",
+    "Starting Median Salary": 41900,
+    "Mid-Career Median Salary": 56500,
+    "Mid-Career 10th Percentile Salary": 30700,
+    "Mid-Career 25th Percentile Salary": 39700,
+    "Mid-Career 75th Percentile Salary": 78400,
+    "Mid-Career 90th Percentile Salary": 116000
+  },
+  {
+    "School Name": "Montana State University - Billings",
+    "School Type": "State",
+    "Starting Median Salary": 37900,
+    "Mid-Career Median Salary": 50600,
+    "Mid-Career 10th Percentile Salary": 22600,
+    "Mid-Career 25th Percentile Salary": 31800,
+    "Mid-Career 75th Percentile Salary": 78500,
+    "Mid-Career 90th Percentile Salary": 98900
+  },
+  {
+    "School Name": "Black Hills State University",
+    "School Type": "State",
+    "Starting Median Salary": 35300,
+    "Mid-Career Median Salary": 43900,
+    "Mid-Career 10th Percentile Salary": 27000,
+    "Mid-Career 25th Percentile Salary": 32200,
+    "Mid-Career 75th Percentile Salary": 60900,
+    "Mid-Career 90th Percentile Salary": 87600
+  }
+]
